@@ -12,7 +12,7 @@ Conceptlist in Concepticon: [Starostin-1991-110](http://concepticon.clld.org/con
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 
 - **Varieties:** 10
 - **Concepts:** 18
@@ -23,9 +23,3 @@ Conceptlist in Concepticon: [Starostin-1991-110](http://concepticon.clld.org/con
 - **Tokens:** 0
 - **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
 - **Inventory size (avg):** 0.00
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 169/169 (100.00%)
