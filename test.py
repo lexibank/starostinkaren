@@ -7,11 +7,11 @@ def test_valid(cldf_dataset, cldf_logger):
 
 
 def test_forms(cldf_dataset, cldf_logger):
-    assert len(list(cldf_dataset['FormTable'])) == 171
+    assert len(list(cldf_dataset["FormTable"])) == 171
 
 
 def test_languages(cldf_dataset, cldf_logger):
-    assert len(list(cldf_dataset['LanguageTable'])) == 10
+    assert len(list(cldf_dataset["LanguageTable"])) == 10
 
 
 def test_sources(cldf_dataset, cldf_logger):
@@ -19,10 +19,9 @@ def test_sources(cldf_dataset, cldf_logger):
 
 
 def test_parameters(cldf_dataset, cldf_logger):
-    assert len(list(cldf_dataset['ParameterTable'])) == 18
+    assert len(list(cldf_dataset["ParameterTable"])) == 18
 
 
 def test_cognates(cldf_dataset, cldf_logger):
-    cogsets = {c['Cognateset_ID'] for c in cldf_dataset['CognateTable']}
+    cogsets = {c["Cognateset_ID"] for c in cldf_dataset["CognateTable"]}
     assert len(cogsets) == 39
-

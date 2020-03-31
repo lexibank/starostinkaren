@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/starostinkaren",
-            "dc:created": "7b4611e"
+            "dc:created": "1b3395a"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +39,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.0"
+            "dc:description": "3.7.6"
         },
         {
             "dc:title": "python-packages",
