@@ -1,13 +1,9 @@
 # Karen family in the Global Lexicostatistical Database
 
-Cite the source dataset as
 
-> None
-
-Conceptlist in Concepticon: [Starostin-1991-110](http://concepticon.clld.org/contributions/Starostin-1991-110)
-
+Conceptlists in Concepticon:
+- [Starostin-1991-110](https://concepticon.clld.org/contributions/Starostin-1991-110)
 ## Statistics
-
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -16,10 +12,15 @@ Conceptlist in Concepticon: [Starostin-1991-110](http://concepticon.clld.org/con
 
 - **Varieties:** 10
 - **Concepts:** 18
-- **Lexemes:** 169
-- **Synonymy:** 1.03
-- **Cognacy:** 167 cognates in 5 cognate sets
-- **Invalid lexemes:** 0
-- **Tokens:** 0
-- **Segments:** 0 (0 BIPA errors, 0 CTLS sound class errors, 0 CLTS modified)
-- **Inventory size (avg):** 0.00
+- **Lexemes:** 171
+- **Sources:** 1
+- **Synonymy:** 1.04
+- **Cognacy:** 171 cognates in 39 cognate sets (11 singletons)
+- **Cognate Diversity:** 0.14
+
+# Contributors
+
+Name | GitHub user | Role
+ --- | --- | --- 
+Robert Forkel | @xrotwang | maintainer
+
