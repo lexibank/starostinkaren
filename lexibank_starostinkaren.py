@@ -7,7 +7,7 @@ from pylexibank.providers import tob
 
 class Dataset(tob.TOB):
     dir = Path(__file__).parent
-    id = 'starostinkaren'
+    id = "starostinkaren"
     pages = 1
-    name = 'krn'
-    dset = 'stb'
+    name = "krn"
+    dset = "stb"
