@@ -1,5 +1,4 @@
 from setuptools import setup
-import sys
 import json
 
 
@@ -15,8 +14,6 @@ setup(
     py_modules=["lexibank_starostinkaren"],
     include_package_data=True,
     zip_safe=False,
-    entry_points={
-        "lexibank.dataset": ["starostinkaren=lexibank_starostinkaren:Dataset"]
-    },
+    entry_points={"lexibank.dataset": ["starostinkaren=lexibank_starostinkaren:Dataset"]},
     install_requires=["pylexibank>=2.1"],
 )

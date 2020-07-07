@@ -5,23 +5,24 @@
     "dc:format": [
         "http://concepticon.clld.org/contributions/Starostin-1991-110"
     ],
+    "dc:identifier": "https://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\\stb\\krn&limit=-1",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Karen family in the Global Lexicostatistical Database",
+    "dc:title": "CLDF dataset derived from Starostin's \"Annotated Swadesh Wordlists for the Karen Group\" from 2017",
     "dcat:accessURL": "https://github.com/lexibank/starostinkaren",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/starostinkaren",
-            "dc:created": "2362de0"
+            "dc:created": "01ea946"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "dc:created": "v4.2.1"
         },
         {
             "rdf:type": "prov:Entity",
@@ -39,7 +40,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.6"
+            "dc:description": "3.8.2"
         },
         {
             "dc:title": "python-packages",
@@ -115,6 +116,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

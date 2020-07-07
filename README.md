@@ -1,4 +1,6 @@
-# Karen family in the Global Lexicostatistical Database
+# CLDF dataset derived from Starostin's "Annotated Swadesh Wordlists for the Karen Group" from 2017
+
+Available online at https://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\stb\krn&limit=-1
 
 
 Conceptlists in Concepticon:
