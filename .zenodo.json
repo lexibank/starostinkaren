@@ -1,0 +1,20 @@
+{
+    "title": "CLDF dataset derived from Starostin's \"Annotated Swadesh Wordlists for the Karen Group\" from 2017",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Robert Forkel"
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset"
+}
