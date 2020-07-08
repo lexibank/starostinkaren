@@ -1,6 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Starostin, George S. (2017): Annotated Swadesh Wordlists for the Karen Group. Moscow: The Global Lexicostatistical Database.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:format": [
         "http://concepticon.clld.org/contributions/Starostin-1991-110"
@@ -16,7 +17,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/starostinkaren",
-            "dc:created": "01ea946"
+            "dc:created": "d871a54"
         },
         {
             "rdf:type": "prov:Entity",

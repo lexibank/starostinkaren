@@ -16,5 +16,6 @@
             "identifier": "lexibank"
         }
     ],
-    "upload_type": "dataset"
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Starostin, George S. (2017): Annotated Swadesh Wordlists for the Karen Group. Moscow: The Global Lexicostatistical Database.</p>\n</blockquote>"
 }
