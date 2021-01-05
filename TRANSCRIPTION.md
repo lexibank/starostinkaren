@@ -136,9 +136,15 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:---------------------------|:-----------------|:----------|:-------|:-----------------------|
+|:---------------------------|:-----------------|:------------|:-----------|:-------------------------|
+| Bwe_Karen-10_bone-1 | Bwe_Karen | 10_bone | =kʰwī | + kʰ w ī/i |
+| Bwe_Karen-11_breast-1 | Bwe_Karen | 11_breast | =áʆɔ̄ | + á/a ʑ ɔ̄/ɔ |
+| Bwe_Karen-13_clawnail-1 | Bwe_Karen | 13_clawnail | =ɕū=θǝ́=mī | + ɕ ū/u + θ ǝ́/ə + m ī/i |
+| Bwe_Karen-1_all-1 | Bwe_Karen | 1_all | ɕá- | ɕ á/a + |
+| Bwe_Karen-3_bark-1 | Bwe_Karen | 3_bark | =pʰē | + pʰ ē/e |
+| Bwe_Karen-4_belly-1 | Bwe_Karen | 4_belly | =gǝ̀=pʰú | + g ǝ̀/ə + pʰ ú/u |
 | Western_Kayah_Li-4_belly-1 | Western_Kayah_Li | 4_belly | hɔ̋ # | h ɔ̋/ɔ + <s> <<#>> </s> |
 
-(1 rows)
+(7 rows)
 
 

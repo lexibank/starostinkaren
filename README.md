@@ -4,6 +4,8 @@ Cite the source dataset as
 
 > Starostin, George S. (2017): Annotated Swadesh Wordlists for the Karen Group. Moscow: The Global Lexicostatistical Database.
 
+This dataset is licensed under a CC-BY-4.0 license
+
 Available online at https://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\stb\krn&limit=-1
 
 
@@ -12,7 +14,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/starostinkaren.svg?branch=master)](https://travis-ci.org/lexibank/starostinkaren)
+[![CLDF validation](https://github.com/lexibank/starostinkaren/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/starostinkaren/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -33,7 +35,10 @@ Conceptlists in Concepticon:
 
 # Contributors
 
-Name | GitHub user | Role
- --- | --- | --- 
-Robert Forkel | @xrotwang | maintainer
+Name | GitHub user | Description | Role
+ --- | --- | --- | ---
+Robert Forkel | @xrotwang | initial code | Other
+Christoph Rzymski | @chrzyki | patron | Other
+George Starostin | | data collection | Author
+
 
