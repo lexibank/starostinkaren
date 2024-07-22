@@ -1,116 +1,231 @@
-Grapheme	IPA	SCA	TYPES	FREQUENCY	CODEPOINTS	EXAMPLES	LANGUAGES
-#	NULL	NULL	NULL	1	U+0023	"hɔ̋ #"	Western_Kayah_Li
--	+	_	Marker	21	U+002D	"cùʰ-kàiʰ,ká=ʔɯ̀-tɤ́,lù-plī"	Brek_Kayaw,Bwe_Karen,Geba_Karen,Kayah_Monu,Lahta_Kayan,Yinbaw,Yintale
-=	+	_	Marker	65	U+003D	"hɔ́=pʰú,kú=mʌ̀,ʔɔ́=lò"	Brek_Kayaw,Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Pekon_Kayan,Western_Kayah_Li,Yinbaw,Yintale
-b	b	P	Consonant	4	U+0062	"kǝ=nɔ̄=bȁ,kʰɔ́=mù=bé,sěin=bēi"	Kayah_Monu,Western_Kayah_Li,Yintale
-c	ts	C	Consonant	3	U+0063	"cùʰ-kàiʰ,cǝ=mīʰ,cǝ̏=ʔʋó"	Yinbaw
-d	d	T	Consonant	11	U+0064	"dȕ,pʰá=dū,ʔà=dó"	Brek_Kayaw,Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Pekon_Kayan,Western_Kayah_Li,Yinbaw,Yintale
-f	f	B	Consonant	1	U+0066	"fō"	Lahta_Kayan
-g	g	K	Consonant	3	U+0067	"=gǝ̀=pʰú,gē,gɛ̀"	Bwe_Karen
-h	h	H	Consonant	5	U+0068	"hú,hɔ́=pʰú,hɔ̋ #"	Eastern_Kayah_Li,Kayah_Monu,Western_Kayah_Li,Yintale
-i	i	I	Vowel	9	U+0069	"ǯáu=mēin,ʂwēi,ʔēi"	Western_Kayah_Li,Yintale
-k	k	K	Consonant	15	U+006B	"cùʰ-kàiʰ,kà=rò,mí=kɛ̀"	Brek_Kayaw,Eastern_Kayah_Li,Kayah_Monu,Western_Kayah_Li,Yinbaw,Yintale
-l	l	L	Consonant	26	U+006C	"lóu̯ŋ,ʔà=lɤ̀,ʔà=tà=klū"	Brek_Kayaw,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Pekon_Kayan,Western_Kayah_Li,Yinbaw,Yintale
-m	m	M	Consonant	17	U+006D	"kʰɔ́=mù=bé,sù=θí=mìʔ,sʰú-mīʰ"	Brek_Kayaw,Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Pekon_Kayan,Yinbaw,Yintale
-n	n	N	Consonant	4	U+006E	"kān=ʔúŋ,sěin=bēi,ǯáu=mēin"	Western_Kayah_Li,Yintale
-p	p	P	Consonant	8	U+0070	"mì=pi̯à,pwáiʰ-trʋ̀,tʰú-tè-pè"	Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Pekon_Kayan,Yinbaw,Yintale
-q	q	K	Consonant	1	U+0071	"ʆū-qài̯"	Lahta_Kayan
-r	r	R	Consonant	7	U+0072	"rò,rȍʰ,rʋʰ=ʍe̋"	Brek_Kayaw,Eastern_Kayah_Li,Western_Kayah_Li,Yinbaw
-s	s	S	Consonant	10	U+0073	"ló=sá-sɛ̀ʔ,sěin=bēi,sǝ̀u=mû"	Eastern_Kayah_Li,Geba_Karen,Pekon_Kayan,Yintale
-t	t	T	Consonant	7	U+0074	"ká=ʔɯ̀-tɤ́,ʔà=tà=klū,ʔà=tò=kʰló"	Brek_Kayaw,Geba_Karen,Kayah_Monu,Lahta_Kayan,Yinbaw,Yintale
-u	u	Y	Vowel	4	U+0075	"pʰǝ́u,sǝ̀u=mû,ǯáu=mēin"	Pekon_Kayan,Yintale
-w	w	W	Consonant	29	U+0077	"pwā,tʰwî,šwéʔ-m̥èʔ"	Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Pekon_Kayan,Western_Kayah_Li,Yinbaw,Yintale
-y	y	Y	Vowel	2	U+0079	"tʰyù,θyù"	Brek_Kayaw
-à	à/a	A	Vowel	19	U+00E0	"kà,lè=ɓà,ʔà=tò=kʰló"	Brek_Kayaw,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Yinbaw,Yintale
-á	á/a	A	Vowel	10	U+00E1	"há,pʰá,ǯáu=mēin"	Brek_Kayaw,Bwe_Karen,Geba_Karen,Kayah_Monu,Yinbaw,Yintale
-â	â/a	A	Vowel	2	U+00E2	"méʰ=pʰâ,míʰ=kâi"	Pekon_Kayan,Yintale
-è	è/e	E	Vowel	7	U+00E8	"šwéʔ-m̥èʔ,ʔè,θò=ɓèʔ"	Brek_Kayaw,Geba_Karen,Kayah_Monu
-é	é/e	E	Vowel	6	U+00E9	"kʰɔ́=mù=bé,šwéʔ-m̥èʔ,ʔé"	Brek_Kayaw,Geba_Karen,Kayah_Monu,Yintale
-ê	ê/e	E	Vowel	2	U+00EA	"êŋ,θǝ̂ŋ=pêŋ"	Pekon_Kayan
-ì	ì/i	I	Vowel	14	U+00EC	"tʰwì,šwì,θwìʔ"	Brek_Kayaw,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Pekon_Kayan
-í	í/i	I	Vowel	14	U+00ED	"kʰwí,ʂí,θí"	Brek_Kayaw,Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan
-î	î/i	I	Vowel	2	U+00EE	"tʰwî,θwî"	Pekon_Kayan
-ò	ò/o	U	Vowel	11	U+00F2	"kà=wò,pò=ʔó=lù,θò=ɓèʔ"	Brek_Kayaw,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu
-ó	ó/o	U	Vowel	9	U+00F3	"cʰó-mí,lā=ʔó,ʔà=dó"	Geba_Karen,Kayah_Monu,Lahta_Kayan,Pekon_Kayan,Yinbaw
-ù	ù/u	Y	Vowel	14	U+00F9	"pʰù,tʰùú,θyù"	Brek_Kayaw,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Yintale
-ú	ú/u	Y	Vowel	13	U+00FA	"hɔ́=pʰú,hɛ̀-ʂú,šú"	Brek_Kayaw,Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Yintale
-û	û/u	Y	Vowel	1	U+00FB	"sǝ̀u=mû"	Pekon_Kayan
-ā	ā/a	A	Vowel	5	U+0101	"kān=ʔúŋ,pwā,pʰā"	Eastern_Kayah_Li,Pekon_Kayan,Yinbaw,Yintale
-ē	ē/e	E	Vowel	11	U+0113	"sěin=bēi,ē,ʂwēi"	Bwe_Karen,Lahta_Kayan,Western_Kayah_Li,Yintale
-ě	ě/e	E	Vowel	1	U+011B	"sěin=bēi"	Yintale
-ī	ī/i	I	Vowel	4	U+012B	"=kʰwī,=ɕū=θǝ́=mī,lù-plī"	Bwe_Karen,Yintale
-ŋ	ŋ	N	Consonant	9	U+014B	"lóu̯ŋ,ʔà=ʂǔŋ,θǝ̂ŋ=pêŋ"	Lahta_Kayan,Pekon_Kayan,Yintale
-ō	ō/o	U	Vowel	6	U+014D	"fō,tʰò-pʰōʔ,ɕō"	Bwe_Karen,Geba_Karen,Lahta_Kayan
-š	ʃ	S	Consonant	5	U+0161	"šwì,šú,šɘ̄"	Brek_Kayaw,Geba_Karen,Lahta_Kayan
-ū	ū/u	Y	Vowel	9	U+016B	"=ɕū=θǝ́=mī,ɕūɓá-pʰō,ɕʰū"	Brek_Kayaw,Bwe_Karen,Lahta_Kayan,Yintale
-ű	ű/u	Y	Vowel	1	U+0171	"pʰű"	Yinbaw
-ǔ	ǔ/u	Y	Vowel	1	U+01D4	"ʔà=ʂǔŋ"	Yintale
-ǝ	ə	E	Vowel	2	U+01DD	"cǝ=mīʰ,kǝ=nɔ̄=bȁ"	Western_Kayah_Li,Yinbaw
-ǯ	dʒ	T	Consonant	4	U+01EF	"ǯáu=mēin,ǯɯ̄=θì=mì,ʔà=ǯɛ̄"	Brek_Kayaw,Yintale
-ȁ	ȁ/a	A	Vowel	3	U+0201	"kǝ=nɔ̄=bȁ,pʰȁ,ȁ"	Western_Kayah_Li,Yinbaw
-ȉ	ȉ/i	I	Vowel	5	U+0209	"krwȉ,ʆwȉ,θwȉ"	Western_Kayah_Li,Yinbaw
-ȕ	ȕ/u	Y	Vowel	4	U+0215	"dȕ,tʰȕ"	Western_Kayah_Li,Yinbaw
-ɓ	ɓ	P	Consonant	4	U+0253	"lè=ɓà,ɕūɓá-pʰō,θò=ɓèʔ"	Bwe_Karen,Geba_Karen
-ɕ	ɕ	S	Consonant	4	U+0255	"=ɕū=θǝ́=mī,ɕá-,ɕō"	Bwe_Karen
-ɗ	ɗ	T	Consonant	1	U+0257	"ɗō"	Bwe_Karen
-ɯ	ɯ	I	Vowel	1	U+026F	"ɔ̋=lɯǝ̌ʰ"	Western_Kayah_Li
-ʂ	ʂ	S	Consonant	7	U+0282	"ʂì,ʂí,ʂɛ̂"	Kayah_Monu,Yintale
-ʆ	ʑ	S	Consonant	5	U+0286	"=áʆɔ̄,ʆiē,ʆwì"	Bwe_Karen,Lahta_Kayan,Western_Kayah_Li
-ʋ	ʋ	W	Consonant	2	U+028B	"cǝ̏=ʔʋó,lʋȕʰ"	Yinbaw
-ʍ	ʍ	M	Consonant	1	U+028D	"rʋʰ=ʍe̋"	Yinbaw
-ʔ	ʔ	H	Consonant	34	U+0294	"pʰɛ́ʔ,ǝ̄=kʰwíʔ,θwìʔ"	Brek_Kayaw,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Pekon_Kayan,Yinbaw,Yintale
-θ	θ	D	Consonant	20	U+03B8	"ǯɯ̄=θì=mì,θǝ̂ŋ=pêŋ,θɯ̀=pʰé"	Brek_Kayaw,Bwe_Karen,Geba_Karen,Pekon_Kayan,Yinbaw
-cʰ	tsʰ	C	Consonant	1	U+0063 U+02B0	"cʰó-mí"	Kayah_Monu
-e̋	e̋/e	E	Vowel	4	U+0065 U+030B	"rʋʰ=ʍe̋,ʔe̋,θɯ̃̏...=pʰe̋"	Yinbaw
-iʰ	iʰ/i /h	I H	Vowel Consonant	3	U+0069 U+02B0	"cùʰ-kàiʰ,lāiʰ,pwáiʰ-trʋ̀"	Yinbaw
-i̋	i̋/i	I	Vowel	1	U+0069 U+030B	"tʰwi̋"	Western_Kayah_Li
-i̯	i̯/j	J	Consonant	4	U+0069 U+032F	"mì=pi̯à,ēi̯ŋ,ʆū-qài̯"	Eastern_Kayah_Li,Lahta_Kayan
-kʰ	kʰ	K	Consonant	9	U+006B U+02B0	"lɛ̄=kʰɛ̀,ǝ̄=kʰwíʔ,ʔà=tò=kʰló"	Brek_Kayaw,Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Pekon_Kayan,Yintale
-m̥	m̥	M	Consonant	1	U+006D U+0325	"šwéʔ-m̥èʔ"	Geba_Karen
-pʰ	pʰ	P	Consonant	25	U+0070 U+02B0	"hɔ́=pʰú,pʰá,tʰò-pʰōʔ"	Brek_Kayaw,Bwe_Karen,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Pekon_Kayan,Western_Kayah_Li,Yinbaw,Yintale
-sʰ	sʰ	S	Consonant	2	U+0073 U+02B0	"sʰú-mīʰ,ȉ=sʰɯ̏"	Western_Kayah_Li,Yintale
-tʰ	tʰ	T	Consonant	18	U+0074 U+02B0	"tʰwì,tʰwȉ,tʰȕ"	Brek_Kayaw,Eastern_Kayah_Li,Geba_Karen,Kayah_Monu,Lahta_Kayan,Pekon_Kayan,Western_Kayah_Li,Yinbaw,Yintale
-u̯	u̯/w	W	Consonant	1	U+0075 U+032F	"lóu̯ŋ"	Lahta_Kayan
-à̰	à̰/ã	A	Vowel	1	U+00E0 U+0330	"ʔà̰"	Eastern_Kayah_Li
-éʰ	éʰ/e /h	E H	Vowel Consonant	2	U+00E9 U+02B0	"méʰ=pʰâ,méʰ=pʰó"	Pekon_Kayan
-ìʰ	ìʰ/i /h	I H	Vowel Consonant	1	U+00EC U+02B0	"sìʰ"	Pekon_Kayan
-íʰ	íʰ/i /h	I H	Vowel Consonant	1	U+00ED U+02B0	"míʰ=kâi"	Yintale
-óʰ	óʰ/o /h	U H	Vowel Consonant	4	U+00F3 U+02B0	"dóʰ,kʰlóʰ,tʰóʰ"	Pekon_Kayan
-ùʰ	ùʰ/u /h	Y H	Vowel Consonant	2	U+00F9 U+02B0	"cùʰ-kàiʰ,lùʰ"	Pekon_Kayan,Yinbaw
-īʰ	īʰ/i /h	I H	Vowel Consonant	2	U+012B U+02B0	"cǝ=mīʰ,sʰú-mīʰ"	Yinbaw,Yintale
-šʰ	ʃʰ	S	Consonant	1	U+0161 U+02B0	"šʰwe̋"	Yinbaw
-ǝ̀	ǝ̀/ə	E	Vowel	2	U+01DD U+0300	"=gǝ̀=pʰú,sǝ̀u=mû"	Bwe_Karen,Pekon_Kayan
-ǝ́	ǝ́/ə	E	Vowel	2	U+01DD U+0301	"=ɕū=θǝ́=mī,pʰǝ́u"	Bwe_Karen,Pekon_Kayan
-ǝ̂	ǝ̂/ə	E	Vowel	1	U+01DD U+0302	"θǝ̂ŋ=pêŋ"	Pekon_Kayan
-ǝ̄	ǝ̄/ə	E	Vowel	6	U+01DD U+0304	"dɛ̀=tǝ̄ɓòʔ,sǝ̄u,ǝ̄=dòʔ"	Geba_Karen,Pekon_Kayan
-ǝ̏	ǝ̏/ə	E	Vowel	1	U+01DD U+030F	"cǝ̏=ʔʋó"	Yinbaw
-ȍʰ	ȍʰ/o /h	U H	Vowel Consonant	1	U+020D U+02B0	"rȍʰ"	Western_Kayah_Li
-ȕʰ	ȕʰ/u /h	Y H	Vowel Consonant	1	U+0215 U+02B0	"lʋȕʰ"	Yinbaw
-ɔ̀	ɔ̀/ɔ	U	Vowel	3	U+0254 U+0300	"lɔ̀,lɤ́-bɔ̀,tʰwēi-klɔ̀"	Eastern_Kayah_Li,Kayah_Monu,Yintale
-ɔ́	ɔ́/ɔ	U	Vowel	3	U+0254 U+0301	"hɔ́=pʰú,kʰɔ́=mù=bé,ʔɔ́=lò"	Eastern_Kayah_Li,Kayah_Monu
-ɔ̄	ɔ̄/ɔ	U	Vowel	2	U+0254 U+0304	"=áʆɔ̄,kǝ=nɔ̄=bȁ"	Bwe_Karen,Western_Kayah_Li
-ɔ̋	ɔ̋/ɔ	U	Vowel	3	U+0254 U+030B	"hɔ̋ #,kɔ̋=pʰɛ̏,ɔ̋=lɯǝ̌ʰ"	Western_Kayah_Li
-ɕʰ	ɕʰ	S	Consonant	3	U+0255 U+02B0	"ɕʰwì,ɕʰū,ɕʰɯ́"	Bwe_Karen,Eastern_Kayah_Li,Pekon_Kayan
-ɘ̄	ɘ̄/ɘ	E	Vowel	1	U+0258 U+0304	"šɘ̄"	Lahta_Kayan
-ɛ̀	ɛ̀/ɛ	E	Vowel	7	U+025B U+0300	"gɛ̀,ló=sá-sɛ̀ʔ,ʔɛ̀=θɯ̋"	Brek_Kayaw,Bwe_Karen,Geba_Karen,Kayah_Monu
-ɛ́	ɛ́/ɛ	E	Vowel	1	U+025B U+0301	"pʰɛ́ʔ"	Geba_Karen
-ɛ̂	ɛ̂/ɛ	E	Vowel	1	U+025B U+0302	"ʂɛ̂"	Yintale
-ɛ̄	ɛ̄/ɛ	E	Vowel	5	U+025B U+0304	"dɛ̄=ō,lɛ̄=kʰɛ̀,mì=kɛ̄"	Brek_Kayaw,Bwe_Karen,Yintale
-ɛ̏	ɛ̏/ɛ	E	Vowel	1	U+025B U+030F	"kɔ̋=pʰɛ̏"	Western_Kayah_Li
-ɤ̀	ɤ̀/ɤ	E	Vowel	2	U+0264 U+0300	"ʂɤ̀=pʰé,ʔà=lɤ̀"	Kayah_Monu
-ɤ́	ɤ́/ɤ	E	Vowel	2	U+0264 U+0301	"ká=ʔɯ̀-tɤ́,lɤ́-bɔ̀"	Brek_Kayaw,Kayah_Monu
-ɨ́	ɨ́/ɨ	I	Vowel	1	U+0268 U+0301	"θɨ́"	Pekon_Kayan
-ɯ̀	ɯ̀/ɯ	I	Vowel	2	U+026F U+0300	"ká=ʔɯ̀-tɤ́,θɯ̀=pʰé"	Brek_Kayaw
-ɯ́	ɯ́/ɯ	I	Vowel	2	U+026F U+0301	"ɕʰɯ́,θɯ́"	Eastern_Kayah_Li,Yinbaw
-ɯ̄	ɯ̄/ɯ	I	Vowel	1	U+026F U+0304	"ǯɯ̄=θì=mì"	Brek_Kayaw
-ɯ̋	ɯ̋/ɯ	I	Vowel	2	U+026F U+030B	"pʰɯ̋,ʔɛ̀=θɯ̋"	Brek_Kayaw
-ɯ̏	ɯ̏/ɯ	I	Vowel	1	U+026F U+030F	"ȉ=sʰɯ̏"	Western_Kayah_Li
-ʋʰ	ʋʰ/ʋ /h	W H	Consonant Consonant	1	U+028B U+02B0	"rʋʰ=ʍe̋"	Yinbaw
-ʋ̀	ʋ̀/ʋ	W	Consonant	1	U+028B U+0300	"pwáiʰ-trʋ̀"	Yinbaw
-ʌ̀	ʌ̀/ʌ	E	Vowel	1	U+028C U+0300	"kú=mʌ̀"	Eastern_Kayah_Li
-ʌ̄	ʌ̄/ʌ	E	Vowel	1	U+028C U+0304	"sʌ̄"	Eastern_Kayah_Li
-ǝ̌ʰ	ǝ̌ʰ/ə /h	E H	Vowel Consonant	1	U+01DD U+030C U+02B0	"ɔ̋=lɯǝ̌ʰ"	Western_Kayah_Li
-ɔ̏ʰ	ɔ̏ʰ/ɔ /h	U H	Vowel Consonant	1	U+0254 U+030F U+02B0	"lɔ̏ʰ"	Western_Kayah_Li
-ɤ̄ʰ	ɤ̄ʰ/ɤ /h	E H	Vowel Consonant	1	U+0264 U+0304 U+02B0	"lɤ̄ʰ"	Brek_Kayaw
-ɯ̃̏	ɯ̃̏	I	Vowel	1	U+026F U+0303 U+030F	"θɯ̃̏...=pʰe̋"	Yinbaw
-...=	+	_	Marker	1	U+002E U+002E U+002E U+003D	"θɯ̃̏...=pʰe̋"	Yinbaw
+Grapheme	IPA	Frequence	Codepoints
+=	+	352	U+003d
+^=	NULL
+=$	NULL
+ʔ	ʔ	186	U+0294
+l	l	180	U+006c
+-	NULL	154	U+002d
+à	a	146	U+00e0
+m	m	138	U+006d
+k	k	106	U+006b
+kʰ	kʰ	92	U+006b U+02b0
+θ	θ	87	U+03b8
+pʰ	pʰ	83	U+0070 U+02b0
+n	n	83	U+006e
+ŋ	ŋ	79	U+014b
+t	t	76	U+0074
+ā	a	64	U+0101
+ì	i	64	U+00ec
+í	i	64	U+00ed
+tʰ	tʰ	63	U+0074 U+02b0
+á	a	61	U+00e1
+ǝ̄	ə	60	U+01dd U+0304
+ò	o	59	U+00f2
+ù	u	57	U+00f9
+p	p	57	U+0070
+ú	u	55	U+00fa
+b	b	53	U+0062
+è	e	49	U+00e8
+y	j	49	U+0079
+ē	e	48	U+0113
+i	i	47	U+0069
+d	d	44	U+0064
+r	r	43	U+0072
+ó	o	42	U+00f3
+ō	o	41	U+014d
+é	e	40	U+00e9
+ɛ̀	ɛ	37	U+025b U+0300
+ɛ̄	ɛ	35	U+025b U+0304
+h	h	35	U+0068
+ū	u	34	U+016b
+ɛ́	ɛ́	29	U+025b U+0301
+s	s	28	U+0073
+ɔ́	ɔ́	28	U+0254 U+0301
+ɔ̀	ɔ	27	U+0254 U+0300
+ǝ̀	ə	25	U+01dd U+0300
+ī	i	24	U+012b
+ʆ	tʃʲ	24	U+0286
+š	ʃ	22	U+0161
+ʂ	ʂ	20	U+0282
+â	a	19	U+00e2
+_	+	19	U+005f
+sʰ	sʰ	18	U+0073 U+02b0
+ɯ̀	ɯ	17	U+026f U+0300
+a̋	a	17	U+0061 U+030b
+ǝ́	ə́	16	U+01dd U+0301
+ɔ̄	ɔ	16	U+0254 U+0304
+ǝ	ə	16	U+01dd
+w	w	16	U+0077
+ȁ	a	15	U+0201
+ɯ	ɯ	15	U+026f
+ɤ́	ɤ́	14	U+0264 U+0301
+g	g	14	U+0067
+u	u	14	U+0075
+ȕ	u	14	U+0215
+ɜ̀	ɜ	14	U+025c U+0300
+.	NULL	13	U+002e
+ʋ	ɤ	13	U+028b
+ɯ́	ɯ́	13	U+026f U+0301
+ɤ̀	ɤ	12	U+0264 U+0300
+e̋	e	12	U+0065 U+030b
+ǯ	dʒ	12	U+01ef
+ǝ̏	ə	12	U+01dd U+030f
+a	a	12	U+0061
+i̯	j	11	U+0069 U+032f
+ɓ	ɓ	11	U+0253
+ʓ	dʒ	11	U+0293
+ű	u	10	U+0171
+ɯ̏	ɯ	10	U+026f U+030f
+=w	w	10	U+003d U+0077
+ɤ̄	ɤ	10	U+0264 U+0304
+ɗ	ɗ	9	U+0257
+ɕʰ	tɕʰ	9	U+0255 U+02b0
+šʰ	ʃʰ	9	U+0161 U+02b0
+v	v	9	U+0076
+ɲ	ɲ	9	U+0272
+àʰ	a̤	9	U+00e0 U+02b0
+=ʂ	ʂ	8	U+003d U+0282
+kʰw	kʰ w	8	U+006b U+02b0 U+0077
+ʌ̄	ʌ	8	U+028c U+0304
+i̋	ɪ	8	U+0069 U+030b
+ʑ	dʑ	8	U+0291
+ɕ	tɕ	7	U+0255
+ɛ̏	ɛ	7	U+025b U+030f
+éʰ	e̤	7	U+00e9 U+02b0
+ɯ̋	ɯ	7	U+026f U+030b
+ȉ	i	7	U+0209
+c	ts	7	U+0063
+ɯ̄	ɯ	7	U+026f U+0304
+tʰw	tʰ w	7	U+0074 U+02b0 U+0077
+ȅ	e	7	U+0205
+ɔ̏	ɔ	7	U+0254 U+030f
+bw	b w	7	U+0062 U+0077
+īʰ	i̤	6	U+012b U+02b0
+ı̄	ɪ	6	U+0131 U+0304
+ʋ̏ʰ	ɤ̤	6	U+028b U+030f U+02b0
+āʰ	a̤	6	U+0101 U+02b0
+ȍ	o	6	U+020d
+=s	s	5	U+003d U+0073
+ɔ̋	ɔ	5	U+0254 U+030b
+ǝ̂	ə	5	U+01dd U+0302
+rw	r w	5	U+0072 U+0077
+ɨ́	ɨ	5	U+0268 U+0301
+x	x	5	U+0078
+ı̀	ɪ	5	U+0131 U+0300
+ȅʰ	e̤	5	U+0205 U+02b0
+ǎ	ǎ	5	U+01ce
+=h	h	5	U+003d U+0068
+pw	p w	4	U+0070 U+0077
+óʰ	o̤	4	U+00f3 U+02b0
+iʰ	i̤	4	U+0069 U+02b0
+ê	e	4	U+00ea
+u̯	u	4	U+0075 U+032f
+θw	θ w	4	U+03b8 U+0077
+šw	ʃ w	4	U+0161 U+0077
+m̥	m̥	4	U+006d U+0325
+=sʰ	sʰ	4	U+003d U+0073 U+02b0
+ʌ̀	ʌ	4	U+028c U+0300
+ǝ̏ʰ	e̤	4	U+01dd U+030f U+02b0
+uʰ	ṳ	4	U+0075 U+02b0
+ő	o	4	U+0151
+ǝ́ʰ	ə̤	4	U+01dd U+0301 U+02b0
+ʋ́	ɤ	4	U+028b U+0301
+ě	e	3	U+011b
+ɯ̃̏	ɯ	3	U+026f U+0303 U+030f
+ǔ	u	3	U+01d4
+ùʰ	ṳ	3	U+00f9 U+02b0
+ȕʰ	ṳ	3	U+0215 U+02b0
+šʰw	ʃʰ w	3	U+0161 U+02b0 U+0077
+=ɕ	tɕ	3	U+003d U+0255
+ȍʰ	o̤	3	U+020d U+02b0
+q	q	3	U+0071
+ɛ̂	ɛ	3	U+025b U+0302
+űʰ	ṳ	3	U+0171 U+02b0
+ʋ̏	v	3	U+028b U+030f
+áʰ	a̤	3	U+00e1 U+02b0
+ô	o	3	U+00f4
+ḭ̀	ḭ	3	U+1e2d U+0300
+ȉʰ	i̤	3	U+0209 U+02b0
+ɨ	ɨ	3	U+0268
+ɔ̌ʰ	o̤	3	U+0254 U+030c U+02b0
+ɛ̏ʰ	ɛ̤	3	U+025b U+030f U+02b0
+ɯ̏ʰ	ɯ̤	3	U+026f U+030f U+02b0
+èʰ	e̤	3	U+00e8 U+02b0
+ɔ̰̀	ɔ̰	3	U+0254 U+0330 U+0300
+ʋ̀	v	2	U+028b U+0300
+ɔ̏ʰ	ɔ̤	2	U+0254 U+030f U+02b0
+ʆw	tʃ w	2	U+0286 U+0077
+î	i	2	U+00ee
+ɕʰw	tɕʰ w	2	U+0255 U+02b0 U+0077
+cʰ	tsʰ	2	U+0063 U+02b0
+û	u	2	U+00fb
+ǝ̌ʰ	ə̤	2	U+01dd U+030c U+02b0
+ɘ̄	ɘ	2	U+0258 U+0304
+ã̏	ã	2	U+00e3 U+030f
+ɨ̂	ɨ	2	U+0268 U+0302
+ʋ̋	v	2	U+028b U+030b
+ʋ̄	v	2	U+028b U+0304
+a̋ʰ	a̤	2	U+0061 U+030b U+02b0
+ɨʰ	ɨ̤	2	U+0268 U+02b0
+ǝ̃̏	ə̃	2	U+01dd U+0303 U+030f
+ɛ̋	ɛ	2	U+025b U+030b
+l̥	l̥	2	U+006c U+0325
+ɲw	ɲ w	2	U+0272 U+0077
+ǐʰ	i̤	2	U+01d0 U+02b0
+kw	k w	2	U+006b U+0077
+ö̀	ø	2	U+00f6 U+0300
+ēʰ	e̤	2	U+0113 U+02b0
+òʰ	o̤	2	U+00f2 U+02b0
+ɤ̄ʰ	ɤ̤	1	U+0264 U+0304 U+02b0
+f	f	1	U+0066
+à̰	a̰	1	U+00e0 U+0330
+sw	s w	1	U+0073 U+0077
+ʂw	ʂ w	1	U+0282 U+0077
+íʰ	i̤	1	U+00ed U+02b0
+ʋʰ	ɤ̤	1	U+028b U+02b0
+ʍ	ʍ	1	U+028d
+ìʰ	i̤	1	U+00ec U+02b0
+ŋ̋	ŋ̍	1	U+014b U+030b
+ã̀	ã	1	U+00e3 U+0300
+ɤ	ɤ	1	U+0264
+m̋	m̩	1	U+006d U+030b
+ɛ̄ʰ	ɛ̤	1	U+025b U+0304 U+02b0
+ɔ̀ʰ	ɔ̤	1	U+0254 U+0300 U+02b0
+ɔ̄ʰ	ɔ̤	1	U+0254 U+0304 U+02b0
+=w̥	w̥	1	U+003d U+0077 U+0325
+ʌ́	ʌ	1	U+028c U+0301
+ūʰ	ṳ	1	U+016b U+02b0
+ḭ́	ḭ	1	U+1e2d U+0301
+ḭ̋	ḭ	1	U+1e2d U+030b
+ɯ̃	ɯ	1	U+026f U+0303
+ɛʰ	ɛ̤	1	U+025b U+02b0
+ǒʰ	o̤	1	U+01d2 U+02b0
+z	z	1	U+007a
+ōʰ	o̤	1	U+014d U+02b0
+mw	m w	1	U+006d U+0077
+ɯ̃̄ʰ	ɯ̤̃	1	U+026f U+0303 U+0304 U+02b0
+ɯ̃ʰ	ɯ̤̃	1	U+026f U+0303 U+02b0
+w̥	w̥	1	U+0077 U+0325
+ěʰ	e̤	1	U+011b U+02b0
+sʰw	sʰ w	1	U+0073 U+02b0 U+0077
+ɛ̌	ɛ	1	U+025b U+030c
+e̋ʰ	e̤	1	U+0065 U+030b U+02b0
+ʋ́ʰ	ɤ̤	1	U+028b U+0301 U+02b0
+ūː	uː	1	U+016b U+02d0
+lw	l w	1	U+006c U+0077
+o	o	1	U+006f
+ɘ́	ɘ	1	U+0258 U+0301
+=ʑ	dʑ	1	U+003d U+0291
+ɛ̋ʰ	ɛ̤	1	U+025b U+030b U+02b0
+ã̏ʰ	ã̤	1	U+00e3 U+030f U+02b0
+ŋw	ŋ w	1	U+014b U+0077
+ʋ̃́	ɤ̃	1	U+028b U+0303 U+0301
+ʋ̃̋ʰ	ɤ̤̃	1	U+028b U+0303 U+030b U+02b0
+é́	e	1	U+00e9 U+0301
+i̋ʰ	i̤	1	U+0069 U+030b U+02b0
+ı́	i	1	U+0131 U+0301
+ö̏	ø	1	U+00f6 U+030f
+ɘ̀	ɘ	1	U+0258 U+0300
+èʂ	e + ʂ	1	U+00e8 U+0282
+ǔʰ	ṳ	1	U+01d4 U+02b0
+ɯ́ʰ	ɯ̤	1	U+026f U+0301 U+02b0

@@ -1,8 +1,14 @@
 # CLDF dataset derived from Starostin's "Annotated Swadesh Wordlists for the Karen Group" from 2017
 
-Cite the source dataset as
+## How to cite
 
-> Starostin, George S. (2017): Annotated Swadesh Wordlists for the Karen Group. Moscow: The Global Lexicostatistical Database.
+If you use these data please cite
+- the original source
+  > Starostin, George S. (2017): Annotated Swadesh Wordlists for the Karen Group. Moscow: The Global Lexicostatistical Database.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -14,24 +20,23 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![CLDF validation](https://github.com/lexibank/starostinkaren/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/starostinkaren/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 99%](https://img.shields.io/badge/BIPA-99%25-brightgreen.svg "BIPA: 99%")
-![CLTS SoundClass: 99%](https://img.shields.io/badge/CLTS%20SoundClass-99%25-brightgreen.svg "CLTS SoundClass: 99%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 10
-- **Concepts:** 18
-- **Lexemes:** 171
+- **Concepts:** 110
+- **Lexemes:** 1,055
 - **Sources:** 1
 - **Synonymy:** 1.04
-- **Cognacy:** 171 cognates in 39 cognate sets (11 singletons)
-- **Cognate Diversity:** 0.14
+- **Cognacy:** 1,055 cognates in 232 cognate sets (72 singletons)
+- **Cognate Diversity:** 0.13
 - **Invalid lexemes:** 0
-- **Tokens:** 697
-- **Segments:** 114 (1 BIPA errors, 1 CTLS sound class errors, 112 CLTS modified)
-- **Inventory size (avg):** 31.00
+- **Tokens:** 3,952
+- **Segments:** 90 (0 BIPA errors, 0 CLTS sound class errors, 90 CLTS modified)
+- **Inventory size (avg):** 41.50
 
 # Contributors
 
@@ -42,3 +47,10 @@ Christoph Rzymski | @chrzyki | patron | Other
 George Starostin | | data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
