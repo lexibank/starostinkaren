@@ -167,3 +167,865 @@
 18,dog,Pekon Kayan,kaya1315,tʰwî,1
 18,dog,Lahta Kayan,zaye1235,šwì,1
 18,dog,Yinbaw,yinb1236,tʰwȉ,1
+18,dog,Kayah Monu,manu1255,cʰí,2
+19,drink,Bwe Karen,bwek1238,ɔ́,1
+19,drink,Geba Karen,geba1237,ɔ́-tʰí,1
+19,drink,Eastern Kayah Li,east2342,ʔō,1
+19,drink,Western Kayah Li,west2409,ō,1
+19,drink,Kayah Monu,manu1255,ʔò,1
+19,drink,Brek Kayaw,brek1238,ʔó,1
+19,drink,Yintale,yint1235,ʔɔ́,1
+19,drink,Pekon Kayan,kaya1315,ʔáu,1
+19,drink,Lahta Kayan,zaye1235,ú,1
+19,drink,Yinbaw,yinb1236,ʔó,1
+20,dry,Bwe Karen,bwek1238,wé,1
+20,dry,Geba Karen,geba1237,ǝ̄=θǝ̄ró,2
+20,dry,Eastern Kayah Li,east2342,kʰrā,3
+20,dry,Western Kayah Li,west2409,krā,3
+20,dry,Kayah Monu,manu1255,ʔà=kʰwè,3
+20,dry,Brek Kayaw,brek1238,šì=še̋,3
+20,dry,Yintale,yint1235,ʔà=xêi,3
+20,dry,Pekon Kayan,kaya1315,ɕʰí ~ sʰí,4
+20,dry,Lahta Kayan,zaye1235,blú,5
+20,dry,Yinbaw,yinb1236,šʰée̋,3
+21,ear,Bwe Karen,bwek1238,nɛ̄-kú,1
+21,ear,Geba Karen,geba1237,nì-gū,1
+21,ear,Eastern Kayah Li,east2342,kēlèkò,2
+21,ear,Western Kayah Li,west2409,kʰālɛ̏kɯǝ̌ʰ,2
+21,ear,Kayah Monu,manu1255,nɔ́-kùlá,1
+21,ear,Brek Kayaw,brek1238,nà-kűlà,1
+21,ear,Yintale,yint1235,nā-káu,1
+21,ear,Pekon Kayan,kaya1315,na-là,1
+21,ear,Yinbaw,yinb1236,ŋ̋-kűʰ,1
+22,earth,Bwe Karen,bwek1238,hā,1
+22,earth,Geba Karen,geba1237,là-kʰòʔ,2
+22,earth,Eastern Kayah Li,east2342,hè,1
+22,earth,Western Kayah Li,west2409,hȅ,1
+22,earth,Kayah Monu,manu1255,há-kʰó,1
+22,earth,Brek Kayaw,brek1238,há,1
+22,earth,Yintale,yint1235,hāŋ,1
+22,earth,Pekon Kayan,kaya1315,hâŋ,1
+22,earth,Lahta Kayan,zaye1235,hàŋ,1
+22,earth,Yinbaw,yinb1236,hã̏-yȁ,1
+23,eat,Bwe Karen,bwek1238,ā,1
+23,eat,Geba Karen,geba1237,ʔà,1
+23,eat,Eastern Kayah Li,east2342,ʔè,1
+23,eat,Western Kayah Li,west2409,ȅ,1
+23,eat,Kayah Monu,manu1255,ʔá,1
+23,eat,Brek Kayaw,brek1238,ʔà,1
+23,eat,Yintale,yint1235,ʔāŋ,1
+23,eat,Pekon Kayan,kaya1315,ʔâŋ,1
+23,eat,Lahta Kayan,zaye1235,àŋ,1
+23,eat,Yinbaw,yinb1236,ʔã̀,1
+24,egg,Bwe Karen,bwek1238,=ɗī,1
+24,egg,Geba Karen,geba1237,dìʔ,1
+24,egg,Eastern Kayah Li,east2342,dʌ̀,1
+24,egg,Western Kayah Li,west2409,diȅ,1
+24,egg,Kayah Monu,manu1255,dí,1
+24,egg,Brek Kayaw,brek1238,dì,1
+24,egg,Yintale,yint1235,dɛ̄,1
+24,egg,Pekon Kayan,kaya1315,sɨ̂,2
+24,egg,Yinbaw,yinb1236,cű,3
+25,eye,Bwe Karen,bwek1238,mù-ká,1
+25,eye,Geba Karen,geba1237,gàdú-pʰlòʔ,2
+25,eye,Eastern Kayah Li,east2342,bé-sè-plɔ̀,1
+25,eye,Western Kayah Li,west2409,mɛ̏-ʆɛ̏-plɔ̏,1
+25,eye,Kayah Monu,manu1255,mì-ʂá-pʰló,1
+25,eye,Brek Kayaw,brek1238,mɯ́-kì-pʰlɤ,1
+25,eye,Yintale,yint1235,mài-mài-pʰlɤ̄,1
+25,eye,Pekon Kayan,kaya1315,méʰ-θâ,1
+25,eye,Yinbaw,yinb1236,m̋-pʰlʋȕ,1
+26,fat n.,Bwe Karen,bwek1238,=θō,1
+26,fat n.,Geba Karen,geba1237,ǝ̄=ɓèʔ,2
+26,fat n.,Eastern Kayah Li,east2342,bá,2
+26,fat n.,Western Kayah Li,west2409,bɯ̏,2
+26,fat n.,Kayah Monu,manu1255,ʔà=bɛ́,2
+26,fat n.,Brek Kayaw,brek1238,θú,1
+26,fat n.,Yintale,yint1235,bái,2
+26,fat n.,Pekon Kayan,kaya1315,bài,2
+26,fat n.,Lahta Kayan,zaye1235,ǝ̀=bwàŋ #,2
+26,fat n.,Yinbaw,yinb1236,bwʋ̋,2
+27,feather,Bwe Karen,bwek1238,=ʆʋ̄,1
+27,feather,Geba Karen,geba1237,ǝ̄=sʰùʔ,1
+27,feather,Western Kayah Li,west2409,tʰȕ=sʰɯ̏,1
+27,feather,Kayah Monu,manu1255,ʔà=ʂó,1
+27,feather,Brek Kayaw,brek1238,tʰù=sʰù,1
+27,feather,Yintale,yint1235,sʰɤ̄,1
+27,feather,Pekon Kayan,kaya1315,ɕʰwâŋ,1
+27,feather,Lahta Kayan,zaye1235,šwāŋʔ,1
+27,feather,Yinbaw,yinb1236,šʰwʋ̏,1
+28,fire,Bwe Karen,bwek1238,mı̄,1
+28,fire,Geba Karen,geba1237,m̥ı̀ʔ,1
+28,fire,Eastern Kayah Li,east2342,mì,1
+28,fire,Western Kayah Li,west2409,mȉ,1
+28,fire,Kayah Monu,manu1255,mí,1
+28,fire,Brek Kayaw,brek1238,mì,1
+28,fire,Yintale,yint1235,mīʰ,1
+28,fire,Pekon Kayan,kaya1315,méʰ,1
+28,fire,Lahta Kayan,zaye1235,mèi̯ŋ,1
+28,fire,Yinbaw,yinb1236,mì,1
+29,fish,Bwe Karen,bwek1238,dà-pʰō,1
+29,fish,Geba Karen,geba1237,dà-pʰòʔ,1
+29,fish,Eastern Kayah Li,east2342,tēú,1
+29,fish,Western Kayah Li,west2409,tɛ̄ʰ,1
+29,fish,Kayah Monu,manu1255,tɔ̀ʰ-pʰú,1
+29,fish,Brek Kayaw,brek1238,tɔ̄ʰ,1
+29,fish,Yintale,yint1235,tà-pʰú,1
+29,fish,Pekon Kayan,kaya1315,tá ~ táʰ,1
+29,fish,Lahta Kayan,zaye1235,tá,1
+29,fish,Yinbaw,yinb1236,ta̋ʰ,1
+30,fly v.,Bwe Karen,bwek1238,wī,1
+30,fly v.,Geba Karen,geba1237,ǝ̄=w̥ìʔ,1
+30,fly v.,Eastern Kayah Li,east2342,ʓò,2
+30,fly v.,Western Kayah Li,west2409,ʑɯǝ̏ʰ,2
+30,fly v.,Kayah Monu,manu1255,wì,1
+30,fly v.,Brek Kayaw,brek1238,wī,1
+30,fly v.,Yintale,yint1235,ʓū,2
+30,fly v.,Pekon Kayan,kaya1315,sǝ̀ɨʰ,2
+30,fly v.,Lahta Kayan,zaye1235,yǝ̄ ~ yǝ̀,3
+30,fly v.,Yinbaw,yinb1236,ʑʋ̏ʰ,2
+31,foot,Bwe Karen,bwek1238,kʰā,1
+31,foot,Geba Karen,geba1237,kʰà-kʰɔ̀ʔ,1
+31,foot,Eastern Kayah Li,east2342,kʰɛ̀-lè,1
+31,foot,Western Kayah Li,west2409,kʰā-dɯǝ̏,1
+31,foot,Kayah Monu,manu1255,kʰá-lá,1
+31,foot,Brek Kayaw,brek1238,kʰɔ̀=kʰù-là,1
+31,foot,Yintale,yint1235,kʰà=dáu-lā,2
+31,foot,Pekon Kayan,kaya1315,kʰâŋ,1
+31,foot,Lahta Kayan,zaye1235,kʰàŋ,1
+31,foot,Yinbaw,yinb1236,kǝ̃̏-kʰű,1
+32,full,Bwe Karen,bwek1238,pwé #,1
+32,full,Geba Karen,geba1237,pʰú=pé-tʰàʔ,1
+32,full,Eastern Kayah Li,east2342,bā,1
+32,full,Western Kayah Li,west2409,bā,1
+32,full,Kayah Monu,manu1255,kɤ́,2
+32,full,Brek Kayaw,brek1238,pʰɯ́=bɛ̄,1
+32,full,Yintale,yint1235,kɯ́ ~ kú-xɔ̀,2
+32,full,Pekon Kayan,kaya1315,bwé,1
+32,full,Lahta Kayan,zaye1235,véʔ,1
+32,full,Yinbaw,yinb1236,bwa̋i,1
+33,give,Bwe Karen,bwek1238,í,1
+33,give,Geba Karen,geba1237,ìʔ,1
+33,give,Eastern Kayah Li,east2342,dʌ́,2
+33,give,Western Kayah Li,west2409,die̋,2
+33,give,Kayah Monu,manu1255,ʔí,1
+33,give,Brek Kayaw,brek1238,ʔī,1
+33,give,Yintale,yint1235,dɛ̂,2
+33,give,Pekon Kayan,kaya1315,pʰéʰ,3
+33,give,Lahta Kayan,zaye1235,pʰì,3
+33,give,Yinbaw,yinb1236,pʰì,3
+34,good,Bwe Karen,bwek1238,wı̄,1
+34,good,Geba Karen,geba1237,ǝ̄=wé,1
+34,good,Eastern Kayah Li,east2342,rɛ́,2
+34,good,Western Kayah Li,west2409,ri̯a̋,2
+34,good,Kayah Monu,manu1255,ʔà=vó,3
+34,good,Brek Kayaw,brek1238,ʔɛ̀=rō,3
+34,good,Yintale,yint1235,ǯɯ́,4
+34,good,Pekon Kayan,kaya1315,ràuʰ,3
+34,good,Yinbaw,yinb1236,ra̋u,3
+35,green,Bwe Karen,bwek1238,lɛ́,1
+35,green,Geba Karen,geba1237,ǝ̄=klòʔ,2
+35,green,Eastern Kayah Li,east2342,sō,3
+35,green,Western Kayah Li,west2409,ʆɯǝ̄,3
+35,green,Kayah Monu,manu1255,ʔà=ʂù,3
+35,green,Brek Kayaw,brek1238,ʔɛ̀=ká=lá,1
+35,green,Yintale,yint1235,ʔà=tɜ̀-ŋā,4
+35,green,Pekon Kayan,kaya1315,θyáŋ,3
+35,green,Yinbaw,yinb1236,θɯ́,3
+36,hair,Bwe Karen,bwek1238,=kʰǝ́=lú,1
+36,hair,Geba Karen,geba1237,kʰū=lú,1
+36,hair,Eastern Kayah Li,east2342,kó=lò,1
+36,hair,Western Kayah Li,west2409,kʰȕ=lɯǝ̏ʰ,1
+36,hair,Kayah Monu,manu1255,kʰó=li̯è,1
+36,hair,Brek Kayaw,brek1238,kʰù=līʰ,1
+36,hair,Yintale,yint1235,kʰū=làu,1
+36,hair,Pekon Kayan,kaya1315,ka=lǝ̀uʰ,1
+36,hair,Yinbaw,yinb1236,kǝ=lūʰ,1
+37,hand,Bwe Karen,bwek1238,=ɕū,1
+37,hand,Geba Karen,geba1237,sú-kʰɔ́ʔ,1
+37,hand,Eastern Kayah Li,east2342,kú=kʰù,2
+37,hand,Western Kayah Li,west2409,tǝ=kʰȕ,2
+37,hand,Kayah Monu,manu1255,kʰɔ́-dè,2
+37,hand,Brek Kayaw,brek1238,ǯū-dē,1
+37,hand,Yintale,yint1235,ǯàú,1
+37,hand,Pekon Kayan,kaya1315,ɕù-déŋ,1
+37,hand,Yinbaw,yinb1236,cǝ̏-de̋,1
+38,head,Bwe Karen,bwek1238,kō,1
+38,head,Geba Karen,geba1237,ǝ̄=kòʔ,1
+38,head,Eastern Kayah Li,east2342,kù=klɔ́,2
+38,head,Western Kayah Li,west2409,kʰȕ=klɔ̋,2
+38,head,Kayah Monu,manu1255,hí=kɤ́,1
+38,head,Brek Kayaw,brek1238,šù=kɤ́,1
+38,head,Yintale,yint1235,šī=kɤ́,1
+38,head,Pekon Kayan,kaya1315,ka=klô,2
+38,head,Lahta Kayan,zaye1235,kʰù,1
+38,head,Yinbaw,yinb1236,kǝ=klʋű,2
+39,hear,Bwe Karen,bwek1238,ʆɔ́nē,1
+39,hear,Geba Karen,geba1237,θǝ̄hɛ́,2
+39,hear,Eastern Kayah Li,east2342,nḭ̀-hō,3
+39,hear,Western Kayah Li,west2409,nḭ́ḭ̋-xɯǝ̄,3
+39,hear,Kayah Monu,manu1255,kà=nà-dé,3
+39,hear,Brek Kayaw,brek1238,nà-xɯ́,3
+39,hear,Yintale,yint1235,nā-xúŋ,3
+39,hear,Pekon Kayan,kaya1315,na-hyǝ́ŋ,3
+39,hear,Yinbaw,yinb1236,lǝ-hʋ̋,3
+40,heart,Bwe Karen,bwek1238,θā,1
+40,heart,Geba Karen,geba1237,ǝ̄=θàʔ,1
+40,heart,Eastern Kayah Li,east2342,sí-plɔ̀,2
+40,heart,Western Kayah Li,west2409,ʆɛ̋-plɔ̏,2
+40,heart,Kayah Monu,manu1255,ʂɔ́-pʰlɤ́,2
+40,heart,Brek Kayaw,brek1238,θɔ̄,1
+40,heart,Yintale,yint1235,ʂá-pʰlɤ̄,2
+40,heart,Pekon Kayan,kaya1315,θà,1
+40,heart,Lahta Kayan,zaye1235,θà,1
+40,heart,Yinbaw,yinb1236,θa̋-pʰlʋȕ,1
+41,horn,Bwe Karen,bwek1238,=nò,1
+41,horn,Geba Karen,geba1237,=nò,1
+41,horn,Eastern Kayah Li,east2342,nɔ̀,1
+41,horn,Western Kayah Li,west2409,nɔ̏ʰ,1
+41,horn,Kayah Monu,manu1255,nè,1
+41,horn,Brek Kayaw,brek1238,nɤ̄,1
+41,horn,Yintale,yint1235,nɤ̄,1
+41,horn,Pekon Kayan,kaya1315,ka=nùʰ,1
+41,horn,Yinbaw,yinb1236,kǝ=nʋű,1
+42,I,Bwe Karen,bwek1238,yɛ̄,1
+42,I,Geba Karen,geba1237,yɛ́,1
+42,I,Eastern Kayah Li,east2342,vɛ̄,1
+42,I,Western Kayah Li,west2409,vā,1
+42,I,Kayah Monu,manu1255,hè,1
+42,I,Brek Kayaw,brek1238,he̋,1
+42,I,Yintale,yint1235,kʰwɛ́,1
+42,I,Pekon Kayan,kaya1315,kʰí,1
+42,I,Lahta Kayan,zaye1235,ɲā,2
+42,I,Yinbaw,yinb1236,kʰi̋,1
+43,kill,Bwe Karen,bwek1238,ɓɛ̄=θí ~ mɛ̄=θí,1
+43,kill,Geba Karen,geba1237,mɛ̀=θí,1
+43,kill,Eastern Kayah Li,east2342,mè=sʌ̄,1
+43,kill,Western Kayah Li,west2409,mȅʰ=ʆiē,1
+43,kill,Kayah Monu,manu1255,mà=ʂì,1
+43,kill,Brek Kayaw,brek1238,mà=θí-tā,1
+43,kill,Yintale,yint1235,mà=ʂɛ́,1
+43,kill,Pekon Kayan,kaya1315,màʰ=θɨ́,1
+43,kill,Lahta Kayan,zaye1235,mō=šǝ̄,1
+43,kill,Yinbaw,yinb1236,mʋ̏ʰ=θɯ́,1
+44,knee,Bwe Karen,bwek1238,kʰā=lǝ̄=mè,1
+44,knee,Geba Karen,geba1237,kʰà=lɛ́=mēʔ,1
+44,knee,Eastern Kayah Li,east2342,kʰɛ̀=mā,1
+44,knee,Western Kayah Li,west2409,kʰȁ=māʰ,1
+44,knee,Kayah Monu,manu1255,kʰɔ́=lè=mè,1
+44,knee,Brek Kayaw,brek1238,kʰɔ̀=lé=mè,1
+44,knee,Yintale,yint1235,kʰà=kléi=māi,1
+44,knee,Pekon Kayan,kaya1315,kʰâŋ=lē,2
+44,knee,Yinbaw,yinb1236,kǝ̃̏=le̋,2
+45,know,Bwe Karen,bwek1238,θǝ́ʔɛ́,1
+45,know,Geba Karen,geba1237,θǝ̄hɛ́,1
+45,know,Eastern Kayah Li,east2342,síŋē,1
+45,know,Western Kayah Li,west2409,ʆɛ̋ɲē,1
+45,know,Kayah Monu,manu1255,ʂéyà,1
+45,know,Brek Kayaw,brek1238,θìyāʰ,1
+45,know,Yintale,yint1235,šínà,1
+45,know,Pekon Kayan,kaya1315,θè,1
+45,know,Lahta Kayan,zaye1235,θíʔ ~ θà,1
+45,know,Yinbaw,yinb1236,θé,1
+46,leaf,Bwe Karen,bwek1238,lɛ̄,1
+46,leaf,Geba Karen,geba1237,θò=l̥ɛ́ʔ,1
+46,leaf,Eastern Kayah Li,east2342,lè,1
+46,leaf,Western Kayah Li,west2409,ʆɔ̏=lɛ̏,1
+46,leaf,Kayah Monu,manu1255,ʂɤ́=lá,1
+46,leaf,Brek Kayaw,brek1238,θɯ̀=là,1
+46,leaf,Yintale,yint1235,sěin=lā,1
+46,leaf,Pekon Kayan,kaya1315,lâ,1
+46,leaf,Lahta Kayan,zaye1235,là,1
+46,leaf,Yinbaw,yinb1236,θɯ̃=la̋,1
+47,lie,Bwe Karen,bwek1238,ʆɔ́-mí,1
+48,liver,Bwe Karen,bwek1238,=θú-θā,1
+48,liver,Geba Karen,geba1237,ǝ̄=θó-θàʔ,1
+48,liver,Eastern Kayah Li,east2342,ʔà=sò,1
+48,liver,Western Kayah Li,west2409,ʆɯǝ̏,1
+48,liver,Kayah Monu,manu1255,ʂú-ʂɔ́,1
+48,liver,Brek Kayaw,brek1238,θù-θɔ̄,1
+48,liver,Yintale,yint1235,sʰōŋ,1
+48,liver,Pekon Kayan,kaya1315,θyǝ̂ŋ ~ θyâŋ,1
+48,liver,Yinbaw,yinb1236,θɯ̋,1
+49,long,Bwe Karen,bwek1238,tʰó,1
+49,long,Geba Karen,geba1237,ǝ̄=tʰó,1
+49,long,Eastern Kayah Li,east2342,tʰū,1
+49,long,Western Kayah Li,west2409,tʰū,1
+49,long,Kayah Monu,manu1255,ʔà=tʰò,1
+49,long,Brek Kayaw,brek1238,tʰú,1
+49,long,Yintale,yint1235,tʰú-tɜ̀-bēŋ,1
+49,long,Pekon Kayan,kaya1315,tʰó,1
+49,long,Lahta Kayan,zaye1235,ɲī,2
+49,long,Yinbaw,yinb1236,tʰő,1
+50,louse,Bwe Karen,bwek1238,lō,1
+50,louse,Geba Karen,geba1237,θòʔ,2
+50,louse,Eastern Kayah Li,east2342,sò,2
+50,louse,Western Kayah Li,west2409,ʆɯǝ̏,2
+50,louse,Kayah Monu,manu1255,ʂú,2
+50,louse,Brek Kayaw,brek1238,θì,3
+50,louse,Yintale,yint1235,ʂúŋ,2
+50,louse,Pekon Kayan,kaya1315,θɨ̂,3
+50,louse,Lahta Kayan,zaye1235,ʆài̯,3
+50,louse,Yinbaw,yinb1236,cȁ,2
+51,man,Bwe Karen,bwek1238,=bò=kʰó,1
+51,man,Geba Karen,geba1237,byà=mì=kʰó,1
+51,man,Eastern Kayah Li,east2342,pʰrè=kʰū,1
+51,man,Western Kayah Li,west2409,prɛʰ=kʰū,1
+51,man,Kayah Monu,manu1255,mà=kʰò,1
+51,man,Brek Kayaw,brek1238,mā=kʰō,1
+51,man,Yintale,yint1235,pyàŋ=kʰú,1
+51,man,Pekon Kayan,kaya1315,pràʰ=kʰó,1
+51,man,Yinbaw,yinb1236,prʋ̏ʰ=kʰő,1
+52,many,Bwe Karen,bwek1238,ɔ̄=ɛ́,1
+52,many,Geba Karen,geba1237,ɔ̀=ɛ̀ʔ,1
+52,many,Eastern Kayah Li,east2342,ʔé,1
+52,many,Western Kayah Li,west2409,ȍ=rǒʰ,2
+52,many,Kayah Monu,manu1255,ʔò=dò,3
+52,many,Brek Kayaw,brek1238,ʔò=ʔa̋,1
+52,many,Yintale,yint1235,ʔɔ̀=ʔáŋ,1
+52,many,Pekon Kayan,kaya1315,ʔà,1
+52,many,Lahta Kayan,zaye1235,qō-tà,4
+52,many,Yinbaw,yinb1236,ʔȍ=ʔa̋,1
+53,meat,Bwe Karen,bwek1238,hı̄,1
+53,meat,Geba Karen,geba1237,ǝ̄=šèʔ,2
+53,meat,Eastern Kayah Li,east2342,ʓà ~ ʔí=ʓà,3
+53,meat,Western Kayah Li,west2409,ʑiē,3
+53,meat,Kayah Monu,manu1255,ʔà=yí,3
+53,meat,Brek Kayaw,brek1238,yà,3
+53,meat,Yintale,yint1235,ʓā,3
+53,meat,Pekon Kayan,kaya1315,zâ,3
+53,meat,Lahta Kayan,zaye1235,yà,3
+53,meat,Yinbaw,yinb1236,ʑa̋,3
+54,moon,Bwe Karen,bwek1238,lɛ́,1
+54,moon,Geba Karen,geba1237,l̥ɛ́,1
+54,moon,Eastern Kayah Li,east2342,lè,1
+54,moon,Western Kayah Li,west2409,lɛ̄,1
+54,moon,Kayah Monu,manu1255,là,1
+54,moon,Brek Kayaw,brek1238,lá,1
+54,moon,Yintale,yint1235,tɜ̀=lâ,1
+54,moon,Pekon Kayan,kaya1315,lá,1
+54,moon,Lahta Kayan,zaye1235,láʔ,1
+54,moon,Yinbaw,yinb1236,lá,1
+55,mountain,Bwe Karen,bwek1238,kó,1
+55,mountain,Geba Karen,geba1237,kʰǝ̄-lɔ́,2
+55,mountain,Eastern Kayah Li,east2342,ɕʰō,3
+55,mountain,Western Kayah Li,west2409,sʰȍ,3
+55,mountain,Kayah Monu,manu1255,kʰɤ̄-lɤ̄,2
+55,mountain,Brek Kayaw,brek1238,kʰō-lō,2
+55,mountain,Yintale,yint1235,sʰāu,3
+55,mountain,Pekon Kayan,kaya1315,sʰû,3
+55,mountain,Lahta Kayan,zaye1235,sòu̯ŋ,3
+55,mountain,Yinbaw,yinb1236,šʰʋȕ,3
+56,mouth,Bwe Karen,bwek1238,lǝ̄=mɔ̄,1
+56,mouth,Geba Karen,geba1237,lǝ̄=mɔ̀,1
+56,mouth,Eastern Kayah Li,east2342,kū=ʔù,2
+56,mouth,Western Kayah Li,west2409,kʰā=ʔȕ,2
+56,mouth,Kayah Monu,manu1255,kʰó-pʰé,2
+56,mouth,Brek Kayaw,brek1238,kʰà=lō=mōʰ,1
+56,mouth,Yintale,yint1235,kʰá=kʰū,2
+56,mouth,Pekon Kayan,kaya1315,káuʰ,2
+56,mouth,Lahta Kayan,zaye1235,myāŋ,3
+56,mouth,Yinbaw,yinb1236,kȁuʰ-kő,2
+57,name,Bwe Karen,bwek1238,=mī,1
+57,name,Geba Karen,geba1237,ǝ̄=mī,1
+57,name,Eastern Kayah Li,east2342,mì,1
+57,name,Western Kayah Li,west2409,mwȉʰ,1
+57,name,Kayah Monu,manu1255,mì,1
+57,name,Brek Kayaw,brek1238,mí,1
+57,name,Yintale,yint1235,mì,1
+57,name,Pekon Kayan,kaya1315,myàʰŋ,1
+57,name,Lahta Kayan,zaye1235,ɲwɛ̄,2
+57,name,Yinbaw,yinb1236,myɯ̃̄ʰ,1
+58,neck,Bwe Karen,bwek1238,gɔ̀,1
+58,neck,Eastern Kayah Li,east2342,kʰɛ̄-bō,2
+58,neck,Lahta Kayan,zaye1235,ɲwáŋ,3
+59,new,Bwe Karen,bwek1238,θɛ́,1
+59,new,Geba Karen,geba1237,ǝ̄=θɛ́,1
+59,new,Eastern Kayah Li,east2342,sē,1
+59,new,Western Kayah Li,west2409,ʆɛ̄,1
+59,new,Kayah Monu,manu1255,ʔà=ʂà,1
+59,new,Brek Kayaw,brek1238,ʔɛ̀=θá,1
+59,new,Yintale,yint1235,ʔà=ʂǎŋ,1
+59,new,Pekon Kayan,kaya1315,θǝ́ɨ,1
+59,new,Yinbaw,yinb1236,θi̋,1
+60,night,Bwe Karen,bwek1238,nɛ̄,1
+60,night,Geba Karen,geba1237,mù=hɛ̀ʔ,2
+60,night,Eastern Kayah Li,east2342,sē,3
+60,night,Western Kayah Li,west2409,mɔ̌ʰ=kʰi̋ #,2
+60,night,Kayah Monu,manu1255,lù=mù=há,2
+60,night,Brek Kayaw,brek1238,lɯ́=mɯ̀=nā,1
+60,night,Yintale,yint1235,mɯ̀=kʰí,2
+60,night,Pekon Kayan,kaya1315,mǝ̄ŋ=hàʰ,2
+60,night,Lahta Kayan,zaye1235,mǝ̀=háʔ,2
+60,night,Yinbaw,yinb1236,mɯ̃ʰ=ha̋,2
+61,nose,Bwe Karen,bwek1238,nɛ̄-kʰǝ́ɗé,1
+61,nose,Geba Karen,geba1237,nǝ̄-kʰǝ̄dé,1
+61,nose,Eastern Kayah Li,east2342,kù=pʰō,2
+61,nose,Western Kayah Li,west2409,kʰā=pʰɯǝ̄,2
+61,nose,Kayah Monu,manu1255,nɔ́-kʰì,1
+61,nose,Brek Kayaw,brek1238,nà-kʰi̋,1
+61,nose,Yintale,yint1235,nāŋ-kʰɛ́,1
+61,nose,Pekon Kayan,kaya1315,na-pʰǝ́u,1
+61,nose,Yinbaw,yinb1236,kʋ̏ʰ=bű,2
+62,not,Bwe Karen,bwek1238,tǝ̄.. nɔ̄ ~ dǝ̄.. nɔ̄,1
+62,not,Geba Karen,geba1237,tǝ̀.. nɔ́ʔ,1
+62,not,Eastern Kayah Li,east2342,tò,1
+62,not,Kayah Monu,manu1255,tǝ́ʰ,1
+62,not,Pekon Kayan,kaya1315,ɕǝ́,2
+62,not,Lahta Kayan,zaye1235,yǝ́,3
+63,one,Bwe Karen,bwek1238,dǝ̄- ~ tǝ̄-,1
+63,one,Geba Karen,geba1237,dǝ̄ ~ tǝ̄,1
+63,one,Eastern Kayah Li,east2342,tǝ̀-,1
+63,one,Western Kayah Li,west2409,tǝ-,1
+63,one,Kayah Monu,manu1255,tà,1
+63,one,Brek Kayaw,brek1238,tɜ̀,1
+63,one,Yintale,yint1235,tɜ̀,1
+63,one,Pekon Kayan,kaya1315,tà,1
+63,one,Lahta Kayan,zaye1235,ǝ̀,2
+63,one,Yinbaw,yinb1236,tǝ,1
+64,person,Bwe Karen,bwek1238,bǝ̄yā,1
+64,person,Geba Karen,geba1237,byà,1
+64,person,Eastern Kayah Li,east2342,pʰrè,1
+64,person,Western Kayah Li,west2409,prɛ̏ʰ,1
+64,person,Kayah Monu,manu1255,pwà,1
+64,person,Brek Kayaw,brek1238,prā,1
+64,person,Yintale,yint1235,pyàŋ,1
+64,person,Pekon Kayan,kaya1315,pràʰ,1
+64,person,Lahta Kayan,zaye1235,plā,1
+64,person,Yinbaw,yinb1236,pra̋ʰ,1
+65,rain,Bwe Karen,bwek1238,wɛ̄,1
+65,rain,Geba Karen,geba1237,w̥ɛ̀ʔ,1
+65,rain,Eastern Kayah Li,east2342,ɕɯ̀ #,2
+65,rain,Western Kayah Li,west2409,kěʰ=ɕɯ̏ʰ,2
+65,rain,Kayah Monu,manu1255,kʰwɛ̀=ǯù,2
+65,rain,Brek Kayaw,brek1238,šɛ̄=ǯū,2
+65,rain,Yintale,yint1235,kān=ǯù,2
+65,rain,Pekon Kayan,kaya1315,sʰwèʰ,1
+65,rain,Yinbaw,yinb1236,šʰwáʔ,1
+66,red,Bwe Karen,bwek1238,lı̄-gɔ̄,1
+66,red,Geba Karen,geba1237,ǝ̄=lèʔ,1
+66,red,Eastern Kayah Li,east2342,lì,1
+66,red,Western Kayah Li,west2409,lȉʰ,1
+66,red,Kayah Monu,manu1255,ʔà=lè,1
+66,red,Brek Kayaw,brek1238,ʔɛ̀=lī-kō,1
+66,red,Yintale,yint1235,ʔà=lēŋ,1
+66,red,Pekon Kayan,kaya1315,lèʰ,1
+66,red,Yinbaw,yinb1236,lȅʰ,1
+67,road,Bwe Karen,bwek1238,klɛ̄,1
+67,road,Geba Karen,geba1237,klɛ̀ʔ,1
+67,road,Eastern Kayah Li,east2342,klɛ́,1
+67,road,Western Kayah Li,west2409,klya̋,1
+67,road,Kayah Monu,manu1255,klɛ́,1
+67,road,Brek Kayaw,brek1238,kʰlɛ̄,1
+67,road,Yintale,yint1235,klâi,1
+67,road,Pekon Kayan,kaya1315,kʰlài,1
+67,road,Lahta Kayan,zaye1235,kéi̯,1
+67,road,Yinbaw,yinb1236,kʰla̋i,1
+68,root,Bwe Karen,bwek1238,θō=kʰā=wī,1
+68,root,Geba Karen,geba1237,ǝ̄=wìʔ,1
+68,root,Eastern Kayah Li,east2342,rwḭ̀,1
+68,root,Western Kayah Li,west2409,ʆɔ̏=rwǐʰ,1
+68,root,Kayah Monu,manu1255,ʂɤ́=kʰɔ́=wì,1
+68,root,Brek Kayaw,brek1238,θɯ́=kʰɔ̄=rɯ̀,1
+68,root,Yintale,yint1235,šɛ̌in=wèi,1
+68,root,Pekon Kayan,kaya1315,rūi,1
+68,root,Lahta Kayan,zaye1235,θǝ̀ŋ=kwí,1
+68,root,Yinbaw,yinb1236,sɯ̏=rwe̋ʰ,1
+69,round,Bwe Karen,bwek1238,tǝ́=ló #,1
+69,round,Geba Karen,geba1237,kǝ̄=lù-ɗú,1
+69,round,Eastern Kayah Li,east2342,ȁ=tǝ̏=vɯ̏ #,2
+69,round,Western Kayah Li,west2409,tǝ=vɯ̏ʰ,2
+69,round,Kayah Monu,manu1255,ʔà=tò=lò,1
+69,round,Brek Kayaw,brek1238,tɜ̀=lɯ̀,1
+69,round,Yintale,yint1235,tɜ̀=lù,1
+69,round,Pekon Kayan,kaya1315,ta=lóŋ,1
+69,round,Yinbaw,yinb1236,rʋ́ʰ=wéʰ,2
+69,round,Bwe Karen,bwek1238,gǝ̄=wā-wā,2
+69,round,Eastern Kayah Li,east2342,tū=lūː #,1
+69,round,Kayah Monu,manu1255,ʔà=lé=wé,2
+69,round,Brek Kayaw,brek1238,rē=wē,2
+69,round,Yintale,yint1235,ʔà=tɜ̀=vɯ̀,2
+70,sand,Geba Karen,geba1237,lò=θɛ́ʔmìʔ,1
+70,sand,Western Kayah Li,west2409,tǝ=ma̋mɯ̏,2
+70,sand,Kayah Monu,manu1255,lɤ̀=ʂèmé,1
+70,sand,Brek Kayaw,brek1238,lɤ̀=θēmē,1
+70,sand,Yintale,yint1235,hāŋ-sʰāi,3
+70,sand,Pekon Kayan,kaya1315,hâŋ-lō-mài,3
+70,sand,Yinbaw,yinb1236,lʋȍʰ=mȁi,1
+71,say,Bwe Karen,bwek1238,ɗɔ̄,1
+71,say,Geba Karen,geba1237,ɗɔ̀,1
+71,say,Eastern Kayah Li,east2342,hé,2
+71,say,Kayah Monu,manu1255,hé,2
+71,say,Pekon Kayan,kaya1315,tài,3
+71,say,Lahta Kayan,zaye1235,dōu̯ŋ,1
+72,see,Bwe Karen,bwek1238,ɕā,1
+72,see,Geba Karen,geba1237,sàʔ-tʰìʔ,1
+72,see,Eastern Kayah Li,east2342,mɛ́-tʰʌ̀,2
+72,see,Western Kayah Li,west2409,mya̋-tʰiȅ,2
+72,see,Kayah Monu,manu1255,kɛ́-ší,3
+72,see,Brek Kayaw,brek1238,kɛ̀-tʰì,3
+72,see,Yintale,yint1235,mɔ́-tʰɛ̄,2
+72,see,Pekon Kayan,kaya1315,lǝ́ʰ ~ ʔù=lǝ́ʰ,4
+72,see,Lahta Kayan,zaye1235,sʰáŋʔ,1
+72,see,Yinbaw,yinb1236,wáʰ=šʰö̀,1
+73,seed,Bwe Karen,bwek1238,=kʰwí,1
+73,seed,Geba Karen,geba1237,ǝ̄=pʰlòʔ,2
+73,seed,Eastern Kayah Li,east2342,klwī,1
+73,seed,Kayah Monu,manu1255,tà=pʰló,2
+73,seed,Brek Kayaw,brek1238,tāʰ=plɤ̀,2
+73,seed,Yintale,yint1235,ʔà=pʰlō,2
+73,seed,Pekon Kayan,kaya1315,pʰlôŋ,2
+73,seed,Lahta Kayan,zaye1235,pʰloŋ,2
+73,seed,Yinbaw,yinb1236,θɯ̃̏=pʰlʋȕ,2
+74,sit,Bwe Karen,bwek1238,ʆɛ́ná,1
+74,sit,Geba Karen,geba1237,sʰɔ́ʔ=nɔ̀ʔ,1
+74,sit,Eastern Kayah Li,east2342,ʔò=nɛ̄,1
+74,sit,Western Kayah Li,west2409,ȍ=ɲyā,1
+74,sit,Kayah Monu,manu1255,há=nɔ̀-ʔɔ́,1
+74,sit,Brek Kayaw,brek1238,šì=nɔ̄,1
+74,sit,Yintale,yint1235,ǯì=nǎ,1
+74,sit,Pekon Kayan,kaya1315,náŋ,1
+74,sit,Lahta Kayan,zaye1235,nāŋ,1
+74,sit,Yinbaw,yinb1236,šʰǝ̏=tʰʋ̏,2
+75,skin,Bwe Karen,bwek1238,=kó,1
+75,skin,Geba Karen,geba1237,ǝ̄=pʰéʔ,2
+75,skin,Eastern Kayah Li,east2342,pʰá,2
+75,skin,Western Kayah Li,west2409,pʰa̋,2
+75,skin,Kayah Monu,manu1255,ʔà=bé,2
+75,skin,Brek Kayaw,brek1238,pʰē,2
+75,skin,Yintale,yint1235,bēi,2
+75,skin,Pekon Kayan,kaya1315,pʰè,2
+75,skin,Lahta Kayan,zaye1235,ǝ̀=pʰī,2
+75,skin,Yinbaw,yinb1236,pʰe̋,2
+76,sleep,Bwe Karen,bwek1238,ʆɔ́=mí,1
+76,sleep,Geba Karen,geba1237,šɔ̀=mí,1
+76,sleep,Eastern Kayah Li,east2342,ʔò=mʌ̄,1
+76,sleep,Western Kayah Li,west2409,ȍ=miē,1
+76,sleep,Kayah Monu,manu1255,há=mò-ʔó,1
+76,sleep,Brek Kayaw,brek1238,ší=mí,1
+76,sleep,Yintale,yint1235,ʔɔ̀=méi,1
+76,sleep,Pekon Kayan,kaya1315,mé,1
+76,sleep,Lahta Kayan,zaye1235,ɲɘ́,1
+76,sleep,Yinbaw,yinb1236,šʰʋ̀=me̋,1
+77,small,Bwe Karen,bwek1238,pʰō,1
+77,small,Geba Karen,geba1237,ǝ̄=šú=pʰòʔ,1
+77,small,Eastern Kayah Li,east2342,pǝ̀=tɛ̀ǝ̀ ~ pǝ̀=tí,2
+77,small,Western Kayah Li,west2409,pȁ=ti̋,2
+77,small,Kayah Monu,manu1255,ʔà=pí=tí,2
+77,small,Brek Kayaw,brek1238,ʔà=prí,2
+77,small,Yintale,yint1235,kʰú-bí,3
+77,small,Pekon Kayan,kaya1315,pʰò,1
+77,small,Lahta Kayan,zaye1235,pí,4
+77,small,Yinbaw,yinb1236,šʰö̀,5
+77,small,Brek Kayaw,brek1238,ʔà=šì,5
+77,small,Yintale,yint1235,tɜ̀=ší,5
+77,small,Pekon Kayan,kaya1315,ɕʰyâŋ,6
+78,smoke,Bwe Karen,bwek1238,θǝ́yù,1
+78,smoke,Geba Karen,geba1237,m̥yı̀=kʰùʔ,2
+78,smoke,Eastern Kayah Li,east2342,kʰò,2
+78,smoke,Western Kayah Li,west2409,ȁ=kʰɯǝ̏,2
+78,smoke,Kayah Monu,manu1255,mí=kʰú,2
+78,smoke,Brek Kayaw,brek1238,mì=kʰɯ̀,2
+78,smoke,Yintale,yint1235,mīʰ=kāu,2
+78,smoke,Pekon Kayan,kaya1315,méʰ=klôŋ,2
+78,smoke,Yinbaw,yinb1236,mȉ=klʋű,2
+79,stand,Bwe Karen,bwek1238,ʆɔ́=tʰō #,1
+79,stand,Geba Karen,geba1237,sʰɔ́ʔ=tʰòʔ,1
+79,stand,Eastern Kayah Li,east2342,kǝ̀=tʰɔ̀,1
+79,stand,Western Kayah Li,west2409,kǝ=tʰɔ̏,1
+79,stand,Kayah Monu,manu1255,ʔì=tʰɤ́,1
+79,stand,Brek Kayaw,brek1238,ší=tɤ̀,1
+79,stand,Yintale,yint1235,ʔi=tʰɤ̄,1
+79,stand,Pekon Kayan,kaya1315,tʰǝ̂ŋ,1
+79,stand,Lahta Kayan,zaye1235,θǝ̀=tʰàŋ,1
+79,stand,Yinbaw,yinb1236,šʰǝ̏=na̋,2
+80,star,Bwe Karen,bwek1238,ʆɛ̄,1
+80,star,Geba Karen,geba1237,sʰɛ̀ʔ,1
+80,star,Eastern Kayah Li,east2342,ɕʰè,1
+80,star,Western Kayah Li,west2409,sʰɛ̏,1
+80,star,Kayah Monu,manu1255,ʂá,1
+80,star,Brek Kayaw,brek1238,ʂà,1
+80,star,Yintale,yint1235,lá=sā,1
+80,star,Pekon Kayan,kaya1315,sʰâ,1
+80,star,Lahta Kayan,zaye1235,sʰā,1
+80,star,Yinbaw,yinb1236,sʰȁ,1
+81,stone,Bwe Karen,bwek1238,lō,1
+81,stone,Geba Karen,geba1237,lòʔ,1
+81,stone,Eastern Kayah Li,east2342,lɔ̰̀,1
+81,stone,Western Kayah Li,west2409,lɔ̌ʰ,1
+81,stone,Kayah Monu,manu1255,lɤ̀,1
+81,stone,Brek Kayaw,brek1238,lɤ̀,1
+81,stone,Yintale,yint1235,lɤ̀,1
+81,stone,Pekon Kayan,kaya1315,lō,1
+81,stone,Lahta Kayan,zaye1235,lòu̯ŋ,1
+81,stone,Yinbaw,yinb1236,lʋȍʰ-pʰɔ̋,1
+82,sun,Bwe Karen,bwek1238,lǝ̄=mū,1
+82,sun,Geba Karen,geba1237,lǝ̄=mùʔ,1
+82,sun,Eastern Kayah Li,east2342,tǝ̀=mɔ̰̀,1
+82,sun,Western Kayah Li,west2409,tǝ=mɔ̌ʰ,1
+82,sun,Kayah Monu,manu1255,lù=mù,1
+82,sun,Brek Kayaw,brek1238,lɯ́=mɯ̀,1
+82,sun,Yintale,yint1235,tɜ̀=mɤ̀,1
+82,sun,Pekon Kayan,kaya1315,mǝ̄ŋ,1
+82,sun,Lahta Kayan,zaye1235,mǝ̀ŋ ~ mù,1
+82,sun,Yinbaw,yinb1236,lʋ́=mȕʰ,1
+83,swim,Bwe Karen,bwek1238,bà-ɕʰí,1
+83,swim,Geba Karen,geba1237,bɔ̀-tʰí,1
+83,swim,Eastern Kayah Li,east2342,tǝ̏=yȅ-tʰʌ̄ #,2
+83,swim,Western Kayah Li,west2409,tǝ=ʑɛ́ɛ̋ʰ-tʰiē,2
+83,swim,Kayah Monu,manu1255,kɔ̀=yɔ̀-šì,2
+83,swim,Brek Kayaw,brek1238,wū-tʰí,3
+83,swim,Yintale,yint1235,tà=yà,2
+83,swim,Pekon Kayan,kaya1315,kwàʰŋ-sʰɨ́,4
+83,swim,Yinbaw,yinb1236,wã̏ʰ-šʰɯ̋,4
+84,tail,Bwe Karen,bwek1238,=ká=mè,1
+84,tail,Geba Karen,geba1237,ǝ̄=ká=myı̀ʔ,1
+84,tail,Eastern Kayah Li,east2342,kú=mḭ̀,1
+84,tail,Western Kayah Li,west2409,kʰā=mǐʰ,1
+84,tail,Kayah Monu,manu1255,gɔ̀=mè,1
+84,tail,Brek Kayaw,brek1238,kɔ̄=mì,1
+84,tail,Yintale,yint1235,kàu=mì,1
+84,tail,Pekon Kayan,kaya1315,ka=mē,1
+84,tail,Lahta Kayan,zaye1235,kǝ̀=mì,1
+84,tail,Yinbaw,yinb1236,kǝ=mȅʰ,1
+85,that,Bwe Karen,bwek1238,nū,1
+85,that,Geba Karen,geba1237,nò,1
+85,that,Eastern Kayah Li,east2342,nʌ̀,1
+85,that,Western Kayah Li,west2409,nɯǝ̏ʰ,1
+85,that,Kayah Monu,manu1255,dé=nù,1
+85,that,Brek Kayaw,brek1238,hà=nī,1
+85,that,Yintale,yint1235,dɤ́=nɯ̀,1
+85,that,Pekon Kayan,kaya1315,ŋá,2
+85,that,Lahta Kayan,zaye1235,dò,3
+85,that,Yinbaw,yinb1236,tǝ-ʔó,3
+86,this,Bwe Karen,bwek1238,yō,1
+86,this,Geba Karen,geba1237,yò,1
+86,this,Eastern Kayah Li,east2342,ʔʌ̄,1
+86,this,Western Kayah Li,west2409,yē,1
+86,this,Kayah Monu,manu1255,tɤ́=ʔɤ́,1
+86,this,Brek Kayaw,brek1238,hà=yɤ̄,1
+86,this,Yintale,yint1235,tɜ̀=ʔɛ̂ ~ ʔɛ́-nɯ̀,1
+86,this,Pekon Kayan,kaya1315,ú,1
+86,this,Lahta Kayan,zaye1235,ŋwɛ̀,1
+86,this,Yinbaw,yinb1236,ʑó,1
+87,thou,Bwe Karen,bwek1238,nɛ̄,1
+87,thou,Geba Karen,geba1237,né,1
+87,thou,Eastern Kayah Li,east2342,nè,1
+87,thou,Western Kayah Li,west2409,ʆī #,2
+87,thou,Kayah Monu,manu1255,nà,1
+87,thou,Brek Kayaw,brek1238,nā,1
+87,thou,Yintale,yint1235,nāʰ,1
+87,thou,Pekon Kayan,kaya1315,nàʰ,1
+87,thou,Lahta Kayan,zaye1235,vē,3
+87,thou,Yinbaw,yinb1236,nʋ̃́ʋ̃̋ʰ,1
+88,tongue,Bwe Karen,bwek1238,=blı̀,1
+88,tongue,Geba Karen,geba1237,blé,1
+88,tongue,Eastern Kayah Li,east2342,plì,1
+88,tongue,Western Kayah Li,west2409,plȉʰ,1
+88,tongue,Kayah Monu,manu1255,plè,1
+88,tongue,Brek Kayaw,brek1238,plīʰ,1
+88,tongue,Yintale,yint1235,plì,1
+88,tongue,Pekon Kayan,kaya1315,plèʰ,1
+88,tongue,Lahta Kayan,zaye1235,plī-bà,1
+88,tongue,Yinbaw,yinb1236,plȅʰ,1
+89,tooth,Bwe Karen,bwek1238,θómɛ̀,1
+89,tooth,Geba Karen,geba1237,θó,1
+89,tooth,Eastern Kayah Li,east2342,kù=kʰʌ̄,2
+89,tooth,Western Kayah Li,west2409,kʰȕ=kʰiē,2
+89,tooth,Kayah Monu,manu1255,kʰó=kʰì,2
+89,tooth,Brek Kayaw,brek1238,θú,1
+89,tooth,Yintale,yint1235,tɜ̀=kʰɛ́,2
+89,tooth,Pekon Kayan,kaya1315,ka=kʰú,2
+89,tooth,Lahta Kayan,zaye1235,mé́i̯,3
+89,tooth,Yinbaw,yinb1236,θɯ̏-kʰɯ̋,1
+90,tree,Bwe Karen,bwek1238,θō,1
+90,tree,Geba Karen,geba1237,θóʔ,1
+90,tree,Eastern Kayah Li,east2342,sɔ̀,1
+90,tree,Western Kayah Li,west2409,ʆɔ̏,1
+90,tree,Kayah Monu,manu1255,ʂɤ́,1
+90,tree,Brek Kayaw,brek1238,θɯ̀-mɯ̀,1
+90,tree,Yintale,yint1235,sěin,1
+90,tree,Pekon Kayan,kaya1315,θǝ̂ŋ,1
+90,tree,Lahta Kayan,zaye1235,θàŋ,1
+90,tree,Yinbaw,yinb1236,θɯ̃̏-mɯ̏,1
+91,two,Bwe Karen,bwek1238,kí,1
+91,two,Geba Karen,geba1237,ǯì,1
+91,two,Eastern Kayah Li,east2342,nʌ̄,2
+91,two,Western Kayah Li,west2409,ɲiēʰ-,2
+91,two,Kayah Monu,manu1255,kìnì,1
+91,two,Brek Kayaw,brek1238,klī ~ kī,1
+91,two,Yintale,yint1235,ɲē ~ nì,2
+91,two,Pekon Kayan,kaya1315,ŋú,3
+91,two,Lahta Kayan,zaye1235,ɲɘ̄ŋ,2
+91,two,Yinbaw,yinb1236,θʋ́=ŋʋ́,2
+92,walk (go),Bwe Karen,bwek1238,lē,1
+92,walk (go),Geba Karen,geba1237,lè,1
+92,walk (go),Eastern Kayah Li,east2342,hɛ̄,2
+92,walk (go),Lahta Kayan,zaye1235,lɛ̄,1
+93,warm (hot),Bwe Karen,bwek1238,gō,1
+93,warm (hot),Geba Karen,geba1237,ǝ̄=gòʔ,1
+93,warm (hot),Eastern Kayah Li,east2342,kù,1
+93,warm (hot),Western Kayah Li,west2409,kúűʰ,1
+93,warm (hot),Kayah Monu,manu1255,ʔà=kò,1
+93,warm (hot),Brek Kayaw,brek1238,ʔɛ̀=kù,1
+93,warm (hot),Yintale,yint1235,ʔà=kù,1
+93,warm (hot),Pekon Kayan,kaya1315,kòʰ,1
+93,warm (hot),Lahta Kayan,zaye1235,kù ~ kʰù,1
+93,warm (hot),Yinbaw,yinb1236,kʋȕʰ,1
+94,water,Bwe Karen,bwek1238,ɕʰí,1
+94,water,Geba Karen,geba1237,tʰí,1
+94,water,Eastern Kayah Li,east2342,tʰʌ̄,1
+94,water,Western Kayah Li,west2409,tʰiē,1
+94,water,Kayah Monu,manu1255,šì,1
+94,water,Brek Kayaw,brek1238,tʰí,1
+94,water,Yintale,yint1235,tʰɛ́ ~ tʰái,1
+94,water,Pekon Kayan,kaya1315,ɕʰɨ́ ~ sʰɨ́,1
+94,water,Lahta Kayan,zaye1235,šǝ́ʔ,1
+94,water,Yinbaw,yinb1236,šʰɯ̋,1
+95,we1,Bwe Karen,bwek1238,wɛ̄,1
+95,we1,Geba Karen,geba1237,wā ~ wà,1
+95,we1,Eastern Kayah Li,east2342,pè,2
+95,we1,Western Kayah Li,west2409,pɛ̏ʰ,2
+95,we1,Kayah Monu,manu1255,pà,2
+95,we1,Brek Kayaw,brek1238,pā,2
+95,we1,Pekon Kayan,kaya1315,pàʰ,2
+95,we1,Lahta Kayan,zaye1235,ɲā-pū,4
+95,we1,Yinbaw,yinb1236,pʋ̏ʰ,2
+95,we2,Bwe Karen,bwek1238,kɛ̄,3
+95,we2,Geba Karen,geba1237,kǝ̄,3
+96,what,Bwe Karen,bwek1238,má-nɔ̄,1
+96,what,Geba Karen,geba1237,dà.. nɛ̀ʔ,2
+96,what,Eastern Kayah Li,east2342,ʔì=tē,3
+96,what,Western Kayah Li,west2409,nɯǝ̏ʰ #,-1
+96,what,Kayah Monu,manu1255,tì-tɛ̀,3
+96,what,Brek Kayaw,brek1238,tɛ̄-tɛ̄,3
+96,what,Yintale,yint1235,ʔēŋ=tɜ̀-gāʰ,3
+96,what,Pekon Kayan,kaya1315,ta-rǎ,3
+96,what,Lahta Kayan,zaye1235,sǝ̀-nɛ̀,4
+96,what,Yinbaw,yinb1236,tri̋ʰ,3
+97,white,Bwe Karen,bwek1238,ɓʋ́,1
+97,white,Geba Karen,geba1237,ǝ̄=ɓò-θá,1
+97,white,Eastern Kayah Li,east2342,bū,1
+97,white,Western Kayah Li,west2409,bū,1
+97,white,Kayah Monu,manu1255,ʔà=bù,1
+97,white,Brek Kayaw,brek1238,ʔɛ̀=bű-ʂɔ̀,1
+97,white,Yintale,yint1235,ʔà=bǔ,1
+97,white,Pekon Kayan,kaya1315,bó,1
+97,white,Lahta Kayan,zaye1235,bú,1
+97,white,Yinbaw,yinb1236,bó,1
+98,who,Bwe Karen,bwek1238,bwá-nɔ̄,1
+98,who,Geba Karen,geba1237,bwɛ̀-bwɛ́,1
+98,who,Eastern Kayah Li,east2342,ʔū..=pē,2
+98,who,Western Kayah Li,west2409,ū=pē,2
+98,who,Kayah Monu,manu1255,mí=ʔò=pɛ̀,2
+98,who,Brek Kayaw,brek1238,hő-lɛ̀,3
+98,who,Yintale,yint1235,bā-dɯ́-gāʰ,1
+98,who,Pekon Kayan,kaya1315,hú-páʰ,3
+98,who,Lahta Kayan,zaye1235,sǝ̀-mɛ̀,4
+98,who,Yinbaw,yinb1236,hű-pi̋,3
+99,woman,Bwe Karen,bwek1238,=bò=mú,1
+99,woman,Geba Karen,geba1237,byà=mì=m̥ùʔ,1
+99,woman,Eastern Kayah Li,east2342,pʰrè=mɔ̰̀,1
+99,woman,Western Kayah Li,west2409,prɛ̏ʰ=mɔ̏,1
+99,woman,Kayah Monu,manu1255,mà=mú,1
+99,woman,Brek Kayaw,brek1238,má=mɯ̀,1
+99,woman,Yintale,yint1235,pyàŋ=mō,1
+99,woman,Pekon Kayan,kaya1315,pràʰ=mǝ̂u,1
+99,woman,Lahta Kayan,zaye1235,pǝ̀=mō,1
+99,woman,Yinbaw,yinb1236,prʋ̏ʰ=mɯ̏ʰ,1
+100,yellow,Geba Karen,geba1237,ǝ̄=ɓá,1
+100,yellow,Eastern Kayah Li,east2342,bɛ̄,1
+100,yellow,Western Kayah Li,west2409,byā,1
+100,yellow,Kayah Monu,manu1255,ʔà=bɔ̀,1
+100,yellow,Brek Kayaw,brek1238,ʔɛ̀=bɔ́,1
+100,yellow,Yintale,yint1235,ʔà=bǎŋ,1
+100,yellow,Pekon Kayan,kaya1315,báŋ,1
+100,yellow,Yinbaw,yinb1236,bã̏,1
+101,far,Bwe Karen,bwek1238,ɔ̄=yı̀,1
+101,far,Geba Karen,geba1237,ɔ́=yı́,1
+101,far,Eastern Kayah Li,east2342,ʓà,2
+101,far,Western Kayah Li,west2409,ʑiȅʰ,2
+101,far,Kayah Monu,manu1255,ʔà=ʓè,2
+101,far,Brek Kayaw,brek1238,ʓī,2
+101,far,Yintale,yint1235,ʔà=ʓɯ̄,2
+101,far,Pekon Kayan,kaya1315,ʓǝ̀ɨʰ,2
+101,far,Yinbaw,yinb1236,ʑēʰ,2
+102,heavy,Bwe Karen,bwek1238,tʰō,1
+102,heavy,Geba Karen,geba1237,ǝ̄=tʰò,1
+102,heavy,Eastern Kayah Li,east2342,tʰò,1
+102,heavy,Western Kayah Li,west2409,tʰɯǝ̏,1
+102,heavy,Kayah Monu,manu1255,ʔà=tʰó,1
+102,heavy,Brek Kayaw,brek1238,ʔɛ̀=tʰɤ̀,1
+102,heavy,Yintale,yint1235,ʔà=tʰɯ̄,1
+102,heavy,Pekon Kayan,kaya1315,tʰǝ́ʰ,1
+102,heavy,Lahta Kayan,zaye1235,tʰǝ̀,1
+102,heavy,Yinbaw,yinb1236,tʰö̏,1
+103,near,Bwe Karen,bwek1238,ɓʋ̄,1
+103,near,Geba Karen,geba1237,ɔ́=ɓàtʰìʔ,2
+103,near,Eastern Kayah Li,east2342,pʰɯ̀,1
+103,near,Western Kayah Li,west2409,pʰɯ̏,1
+103,near,Kayah Monu,manu1255,ʔà=pʰú,1
+103,near,Brek Kayaw,brek1238,bū,1
+103,near,Yintale,yint1235,ʔà=pʰūŋ,1
+103,near,Pekon Kayan,kaya1315,pʰyâŋ,1
+103,near,Lahta Kayan,zaye1235,pʰɘ̀ŋ,1
+103,near,Yinbaw,yinb1236,pʰɯ̋,1
+104,salt,Bwe Karen,bwek1238,ı̄θɛ̄,1
+104,salt,Geba Karen,geba1237,dìθɛ̀ʔ,1
+104,salt,Eastern Kayah Li,east2342,ʔísè,1
+104,salt,Western Kayah Li,west2409,ȅʆɛ̏,1
+104,salt,Kayah Monu,manu1255,ʔèʂá,1
+104,salt,Brek Kayaw,brek1238,di̋θà,1
+104,salt,Yintale,yint1235,ʔíʂā,1
+104,salt,Pekon Kayan,kaya1315,ta=θâ,1
+104,salt,Yinbaw,yinb1236,cʋ̏=θa̋,1
+105,short,Bwe Karen,bwek1238,ɗā,1
+105,short,Geba Karen,geba1237,ǝ̄=bí=pʰòʔ,2
+105,short,Eastern Kayah Li,east2342,ȁ=pʰȍ #,2
+105,short,Western Kayah Li,west2409,pʰɯǝ̏,2
+105,short,Kayah Monu,manu1255,ʔà=pʰó-tú,2
+105,short,Brek Kayaw,brek1238,pʰɤ̀,2
+105,short,Yintale,yint1235,pʰɯ̄-tɤ̄n,2
+105,short,Pekon Kayan,kaya1315,pʰyâŋ,2
+105,short,Lahta Kayan,zaye1235,pʰɨǝ́,2
+105,short,Yinbaw,yinb1236,pʰɯ̏,2
+106,snake,Bwe Karen,bwek1238,wī,1
+106,snake,Geba Karen,geba1237,wù,1
+106,snake,Eastern Kayah Li,east2342,rù,1
+106,snake,Western Kayah Li,west2409,rǔʰ,1
+106,snake,Kayah Monu,manu1255,vòʰ,1
+106,snake,Brek Kayaw,brek1238,rù,1
+106,snake,Yintale,yint1235,wò,1
+106,snake,Pekon Kayan,kaya1315,rō,1
+106,snake,Lahta Kayan,zaye1235,qù,1
+106,snake,Yinbaw,yinb1236,rʋűʰ,1
+107,thin1,Bwe Karen,bwek1238,pú,1
+107,thin1,Geba Karen,geba1237,ǝ̄=pʰú,1
+107,thin1,Eastern Kayah Li,east2342,bɯ̄ #,1
+107,thin1,Western Kayah Li,west2409,ȁ=bɯ̄,1
+107,thin1,Kayah Monu,manu1255,ʔà=kàlà,2
+107,thin1,Brek Kayaw,brek1238,prɯ̄,1
+107,thin1,Yintale,yint1235,bǔŋ,1
+107,thin1,Pekon Kayan,kaya1315,bǝ́ɨ,1
+107,thin1,Yinbaw,yinb1236,prɯ́ʰ,1
+107,thin2,Bwe Karen,bwek1238,prı̄,3
+108,wind,Bwe Karen,bwek1238,gǝ̄=lī,1
+108,wind,Eastern Kayah Li,east2342,lɛ̀-sé #,1
+108,wind,Lahta Kayan,zaye1235,yà ~ yǝ́,1
+109,worm,Bwe Karen,bwek1238,tʰālē,1
+109,worm,Geba Karen,geba1237,tʰàʔlé,1
+109,worm,Kayah Monu,manu1255,tʰàʓè,2
+109,worm,Brek Kayaw,brek1238,tʰa̋yē,2
+109,worm,Yintale,yint1235,tɜ̀lǎi,1
+109,worm,Pekon Kayan,kaya1315,sa=kʰrú,3
+109,worm,Yinbaw,yinb1236,ʑāiʰ,4
+110,year,Bwe Karen,bwek1238,ɗē,1
+110,year,Geba Karen,geba1237,ɗèʔ,1
+110,year,Eastern Kayah Li,east2342,nà,2
+110,year,Western Kayah Li,west2409,nȁ,2
+110,year,Kayah Monu,manu1255,né,2
+110,year,Brek Kayaw,brek1238,dè,1
+110,year,Yintale,yint1235,nēi,2
+110,year,Pekon Kayan,kaya1315,nêŋ,2
+110,year,Lahta Kayan,zaye1235,nèi̯ŋ,2
+110,year,Yinbaw,yinb1236,nȅi,2
