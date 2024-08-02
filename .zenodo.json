@@ -7,7 +7,7 @@
     ],
     "creators": [
         {
-            "name": "George Starostin"
+            "name": "George S. Starostin"
         }
     ],
     "contributors": [
@@ -17,7 +17,15 @@
         },
         {
             "name": "Christoph Rzymski",
-            "type": "Other"
+            "type": "Editor"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Editor"
+        },
+        {
+            "name": "George S. Starostin",
+            "type": "DataCurator"
         }
     ],
     "communities": [
